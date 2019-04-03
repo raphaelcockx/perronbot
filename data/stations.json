@@ -8,8 +8,8 @@
   {
     "name": "AALST-KERREBROEK",
     "weekday": 26,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "AALTER",
@@ -26,8 +26,8 @@
   {
     "name": "AARSELE",
     "weekday": 37,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "ACREN",
@@ -122,8 +122,8 @@
   {
     "name": "ANZEGEM",
     "weekday": 163,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "APPELTERRE",
@@ -134,8 +134,8 @@
   {
     "name": "ARCADES",
     "weekday": 59,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "ARCHENNES",
@@ -176,8 +176,8 @@
   {
     "name": "AUBANGE",
     "weekday": 76,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "AUVELAIS",
@@ -200,8 +200,8 @@
   {
     "name": "BAASRODE-ZUID",
     "weekday": 182,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "BALEGEM-DORP",
@@ -212,8 +212,8 @@
   {
     "name": "BALEGEM-ZUID",
     "weekday": 189,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "BALEN",
@@ -224,8 +224,8 @@
   {
     "name": "BAMBRUGGE",
     "weekday": 39,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "BARVAUX",
@@ -278,8 +278,8 @@
   {
     "name": "BEIGNEE",
     "weekday": 14,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "BELLEM",
@@ -392,8 +392,8 @@
   {
     "name": "BLERET",
     "weekday": 52,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "BOCKSTAEL",
@@ -506,14 +506,14 @@
   {
     "name": "BRU.-CHAP./KAP.",
     "weekday": 230,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "BRU.-CONG.",
     "weekday": 524,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "BRU.-LUXEMBG",
@@ -572,8 +572,8 @@
   {
     "name": "BUDA",
     "weekday": 101,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "BUGGENHOUT",
@@ -596,8 +596,8 @@
   {
     "name": "CALLENELLE",
     "weekday": 20,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "CAMBRON-CASTEAU",
@@ -626,8 +626,8 @@
   {
     "name": "CHAPELLE-DIEU",
     "weekday": 26,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "CHAPOIS",
@@ -704,8 +704,8 @@
   {
     "name": "COUILLET",
     "weekday": 75,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "COUR-SUR-HEURE",
@@ -770,8 +770,8 @@
   {
     "name": "DELTA",
     "weekday": 346,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "DENDERLEEUW",
@@ -854,8 +854,8 @@
   {
     "name": "EDE",
     "weekday": 510,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "EEKLO",
@@ -926,8 +926,8 @@
   {
     "name": "ERPE-MERE",
     "weekday": 50,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "ERPS-KWERPS",
@@ -998,8 +998,8 @@
   {
     "name": "FAMILLEUREUX",
     "weekday": 64,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "FARCIENNES",
@@ -1100,8 +1100,8 @@
   {
     "name": "FRAMERIES",
     "weekday": 269,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "FRANCHIMONT",
@@ -1172,8 +1172,8 @@
   {
     "name": "GENLY",
     "weekday": 124,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "GENT-DAMPOORT",
@@ -1214,8 +1214,8 @@
   {
     "name": "GHLIN",
     "weekday": 30,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "GLONS",
@@ -1304,8 +1304,8 @@
   {
     "name": "HALANZY",
     "weekday": 84,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "HALLE",
@@ -1322,14 +1322,14 @@
   {
     "name": "HAM-SUR-SAMBRE",
     "weekday": 8,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "HAMBOS",
     "weekday": 29,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "HAMOIR",
@@ -1352,8 +1352,8 @@
   {
     "name": "HARCHIES",
     "weekday": 22,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "HARELBEKE",
@@ -1484,8 +1484,8 @@
   {
     "name": "HEVER",
     "weekday": 142,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "HEVERLEE",
@@ -1496,8 +1496,8 @@
   {
     "name": "HILLEGEM",
     "weekday": 118,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "HOBOKEN-POLDER",
@@ -1514,8 +1514,8 @@
   {
     "name": "HOFSTADE",
     "weekday": 68,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "HOLLEKEN",
@@ -1538,8 +1538,8 @@
   {
     "name": "HOURPES",
     "weekday": 10,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "HOUYET",
@@ -1778,8 +1778,8 @@
   {
     "name": "LANDSKOUTER",
     "weekday": 80,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "LANGDORP",
@@ -1790,8 +1790,8 @@
   {
     "name": "LE CAMPINAIRE",
     "weekday": 60,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "LEBBEKE",
@@ -1814,8 +1814,8 @@
   {
     "name": "LEMAN",
     "weekday": 64,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "LEMBEEK",
@@ -2042,8 +2042,8 @@
   {
     "name": "MARCHE-LEZ-ECAUSSINNES",
     "weekday": 137,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "MARCHIENNE-AU-PONT",
@@ -2078,20 +2078,20 @@
   {
     "name": "MASNUY-SAINT-PIERRE",
     "weekday": 29,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "MAUBRAY",
     "weekday": 16,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "MAZY",
     "weekday": 27,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "MECHELEN",
@@ -2156,8 +2156,8 @@
   {
     "name": "MERODE",
     "weekday": 504,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "MERY",
@@ -2168,14 +2168,14 @@
   {
     "name": "MESSANCY",
     "weekday": 56,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "MEVERGNIES-ATTRE",
     "weekday": 89,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "MILMORT",
@@ -2240,7 +2240,7 @@
   {
     "name": "MORTSEL-DEURNESTEENWEG",
     "weekday": 0,
-    "saturday": "",
+    "saturday": 0,
     "sunday": 37
   },
   {
@@ -2330,8 +2330,8 @@
   {
     "name": "NEUFVILLES",
     "weekday": 52,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "NIEL",
@@ -2384,14 +2384,14 @@
   {
     "name": "OBAIX-BUZET",
     "weekday": 204,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "OBOURG",
     "weekday": 19,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "OKEGEM",
@@ -2438,8 +2438,8 @@
   {
     "name": "OUDEGEM",
     "weekday": 177,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "OUDENAARDE",
@@ -2546,8 +2546,8 @@
   {
     "name": "PRY",
     "weekday": 24,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "PUURS",
@@ -2564,8 +2564,8 @@
   {
     "name": "QUEVY",
     "weekday": 168,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "QUIEVRAIN",
@@ -2702,8 +2702,8 @@
   {
     "name": "SCLESSIN",
     "weekday": 37,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "SERAING",
@@ -2768,8 +2768,8 @@
   {
     "name": "ST-DENIJS-BOEKEL",
     "weekday": 194,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "ST-DENIS-BOVESSE",
@@ -2870,8 +2870,8 @@
   {
     "name": "TERHAGEN",
     "weekday": 183,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "TERNAT",
@@ -3044,8 +3044,8 @@
   {
     "name": "VICHTE",
     "weekday": 217,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "VIELSALM",
@@ -3056,14 +3056,14 @@
   {
     "name": "VIJFHUIZEN",
     "weekday": 35,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "VILLE-POMMEROEUL",
     "weekday": 27,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "VILLERS-LA-VILLE",
@@ -3104,8 +3104,8 @@
   {
     "name": "VOROUX",
     "weekday": 48,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "WAARSCHOOT",
@@ -3164,8 +3164,8 @@
   {
     "name": "WELLE",
     "weekday": 194,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "WERVIK",
@@ -3200,8 +3200,8 @@
   {
     "name": "WICHELEN",
     "weekday": 158,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "WIJGMAAL",
@@ -3224,8 +3224,8 @@
   {
     "name": "WOLFSTEE",
     "weekday": 49,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "WONDELGEM",
@@ -3266,12 +3266,12 @@
   {
     "name": "ZEEBRUGGE-DORP",
     "weekday": 350,
-    "saturday": "",
-    "sunday": ""
+    "saturday": 0,
+    "sunday": 0
   },
   {
     "name": "ZEEBRUGGE-STRAND",
-    "weekday": "",
+    "weekday": 0,
     "saturday": 71,
     "sunday": 60
   },
