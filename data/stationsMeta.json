@@ -1,0 +1,2772 @@
+[
+  {
+    "name": "AALST",
+    "name_clean": "Aalst",
+    "url": "https://nl.wikipedia.org/wiki/Station_Aalst"
+  },
+  {
+    "name": "AALST-KERREBROEK",
+    "name_clean": "Aalst-Kerrebroek",
+    "url": "https://nl.wikipedia.org/wiki/Station_Aalst-Kerrebroek"
+  },
+  {
+    "name": "AALTER",
+    "name_clean": "Aalter",
+    "url": "https://nl.wikipedia.org/wiki/Station_Aalter"
+  },
+  {
+    "name": "AARSCHOT",
+    "name_clean": "Aarschot",
+    "url": "https://nl.wikipedia.org/wiki/Station_Aarschot"
+  },
+  {
+    "name": "AARSELE",
+    "name_clean": "Aarsele",
+    "url": "https://nl.wikipedia.org/wiki/Station_Aarsele"
+  },
+  {
+    "name": "ACREN",
+    "name_clean": "Acren",
+    "url": "https://nl.wikipedia.org/wiki/Station_Acren"
+  },
+  {
+    "name": "AISEAU",
+    "name_clean": "Aiseau",
+    "url": "https://nl.wikipedia.org/wiki/Station_Aiseau"
+  },
+  {
+    "name": "ALKEN",
+    "name_clean": "Alken",
+    "url": "https://nl.wikipedia.org/wiki/Station_Alken"
+  },
+  {
+    "name": "AMAY",
+    "name_clean": "Amay",
+    "url": "https://nl.wikipedia.org/wiki/Station_Amay"
+  },
+  {
+    "name": "AMPSIN",
+    "name_clean": "Ampsin",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ampsin"
+  },
+  {
+    "name": "ANDENNE",
+    "name_clean": "Andenne",
+    "url": "https://nl.wikipedia.org/wiki/Station_Andenne"
+  },
+  {
+    "name": "ANGLEUR",
+    "name_clean": "Angleur",
+    "url": "https://nl.wikipedia.org/wiki/Station_Angleur"
+  },
+  {
+    "name": "ANS",
+    "name_clean": "Ans",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ans"
+  },
+  {
+    "name": "ANSEREMME",
+    "name_clean": "Anseremme",
+    "url": "https://nl.wikipedia.org/wiki/Station_Anseremme"
+  },
+  {
+    "name": "ANTOING",
+    "name_clean": "Antoing",
+    "url": "https://nl.wikipedia.org/wiki/Station_Antoing"
+  },
+  {
+    "name": "ANTWERPEN-BERCHEM",
+    "name_clean": "Antwerpen-Berchem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Antwerpen-Berchem"
+  },
+  {
+    "name": "ANTWERPEN-CAAL",
+    "name_clean": "Antwerpen-Centraal",
+    "url": "https://nl.wikipedia.org/wiki/Station_Antwerpen-Centraal"
+  },
+  {
+    "name": "ANTWERPEN-LUCHTBAL",
+    "name_clean": "Antwerpen-Luchtbal",
+    "url": "https://nl.wikipedia.org/wiki/Station_Antwerpen-Luchtbal"
+  },
+  {
+    "name": "ANTWERPEN-NOORDERDOKKEN",
+    "name_clean": "Antwerpen-Noorderdokken",
+    "url": "https://nl.wikipedia.org/wiki/Station_Antwerpen-Noorderdokken"
+  },
+  {
+    "name": "ANTWERPEN-ZUID",
+    "name_clean": "Antwerpen-Zuid",
+    "url": "https://nl.wikipedia.org/wiki/Station_Antwerpen-Zuid"
+  },
+  {
+    "name": "ANZEGEM",
+    "name_clean": "Anzegem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Anzegem"
+  },
+  {
+    "name": "APPELTERRE",
+    "name_clean": "Appelterre",
+    "url": "https://nl.wikipedia.org/wiki/Station_Appelterre"
+  },
+  {
+    "name": "ARCADES",
+    "name_clean": "Arcaden",
+    "url": "https://nl.wikipedia.org/wiki/Station_Arcaden"
+  },
+  {
+    "name": "ARCHENNES",
+    "name_clean": "Archennes",
+    "url": "https://nl.wikipedia.org/wiki/Station_Archennes"
+  },
+  {
+    "name": "ARLON",
+    "name_clean": "Arlon",
+    "url": "https://nl.wikipedia.org/wiki/Station_Arlon"
+  },
+  {
+    "name": "ASSE",
+    "name_clean": "Asse",
+    "url": "https://nl.wikipedia.org/wiki/Station_Asse"
+  },
+  {
+    "name": "ASSESSE",
+    "name_clean": "Assesse",
+    "url": "https://nl.wikipedia.org/wiki/Station_Assesse"
+  },
+  {
+    "name": "ATH",
+    "name_clean": "Ath",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ath"
+  },
+  {
+    "name": "ATHUS",
+    "name_clean": "Athus",
+    "url": "https://nl.wikipedia.org/wiki/Station_Athus"
+  },
+  {
+    "name": "AUBANGE",
+    "name_clean": "Aubange",
+    "url": "https://nl.wikipedia.org/wiki/Station_Aubange"
+  },
+  {
+    "name": "AUVELAIS",
+    "name_clean": "Auvelais",
+    "url": "https://nl.wikipedia.org/wiki/Station_Auvelais"
+  },
+  {
+    "name": "AYE",
+    "name_clean": "Aye",
+    "url": "https://nl.wikipedia.org/wiki/Station_Aye"
+  },
+  {
+    "name": "AYWAILLE",
+    "name_clean": "Aywaille",
+    "url": "https://nl.wikipedia.org/wiki/Station_Aywaille"
+  },
+  {
+    "name": "BAASRODE-ZUID",
+    "name_clean": "Baasrode-Zuid",
+    "url": "https://nl.wikipedia.org/wiki/Station_Baasrode-Zuid"
+  },
+  {
+    "name": "BALEGEM-DORP",
+    "name_clean": "Balegem-Dorp",
+    "url": "https://nl.wikipedia.org/wiki/Station_Balegem-Dorp"
+  },
+  {
+    "name": "BALEGEM-ZUID",
+    "name_clean": "Balegem-Zuid",
+    "url": "https://nl.wikipedia.org/wiki/Station_Balegem-Zuid"
+  },
+  {
+    "name": "BALEN",
+    "name_clean": "Balen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Balen"
+  },
+  {
+    "name": "BAMBRUGGE",
+    "name_clean": "Bambrugge",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bambrugge"
+  },
+  {
+    "name": "BARVAUX",
+    "name_clean": "Barvaux",
+    "url": "https://nl.wikipedia.org/wiki/Station_Barvaux"
+  },
+  {
+    "name": "BAS-OHA",
+    "name_clean": "Bas-Oha",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bas-Oha"
+  },
+  {
+    "name": "BASSE-WAVRE",
+    "name_clean": "Basse-Wavre",
+    "url": "https://nl.wikipedia.org/wiki/Station_Basse-Wavre"
+  },
+  {
+    "name": "BEAURAING",
+    "name_clean": "Beauraing",
+    "url": "https://nl.wikipedia.org/wiki/Station_Beauraing"
+  },
+  {
+    "name": "BEERNEM",
+    "name_clean": "Beernem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Beernem"
+  },
+  {
+    "name": "BEERSEL",
+    "name_clean": "Beersel",
+    "url": "https://nl.wikipedia.org/wiki/Station_Beersel"
+  },
+  {
+    "name": "BEERVELDE",
+    "name_clean": "Beervelde",
+    "url": "https://nl.wikipedia.org/wiki/Station_Beervelde"
+  },
+  {
+    "name": "BEGIJNENDIJK",
+    "name_clean": "Begijnendijk",
+    "url": "https://nl.wikipedia.org/wiki/Station_Begijnendijk"
+  },
+  {
+    "name": "BEIGNEE",
+    "name_clean": "Beignée",
+    "url": "https://nl.wikipedia.org/wiki/Station_Beignée"
+  },
+  {
+    "name": "BELLEM",
+    "name_clean": "Bellem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bellem"
+  },
+  {
+    "name": "BELSELE",
+    "name_clean": "Belsele",
+    "url": "https://nl.wikipedia.org/wiki/Station_Belsele"
+  },
+  {
+    "name": "BERINGEN",
+    "name_clean": "Beringen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Beringen"
+  },
+  {
+    "name": "BERLAAR",
+    "name_clean": "Berlaar",
+    "url": "https://nl.wikipedia.org/wiki/Station_Berlaar"
+  },
+  {
+    "name": "BERTRIX",
+    "name_clean": "Bertrix",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bertrix"
+  },
+  {
+    "name": "BERZEE",
+    "name_clean": "Berzée",
+    "url": "https://nl.wikipedia.org/wiki/Station_Berzée"
+  },
+  {
+    "name": "BEUZET",
+    "name_clean": "Beuzet",
+    "url": "https://nl.wikipedia.org/wiki/Station_Beuzet"
+  },
+  {
+    "name": "BEVEREN",
+    "name_clean": "Beveren",
+    "url": "https://nl.wikipedia.org/wiki/Station_Beveren"
+  },
+  {
+    "name": "BEVERLO",
+    "name_clean": "Beverlo",
+    "url": "https://nl.wikipedia.org/wiki/Station_Beverlo"
+  },
+  {
+    "name": "BIERGES-WALIBI",
+    "name_clean": "Bierges-Walibi",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bierges-Walibi"
+  },
+  {
+    "name": "BIERSET-AWANS",
+    "name_clean": "Bierset-Awans",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bierset-Awans"
+  },
+  {
+    "name": "BILZEN",
+    "name_clean": "Bilzen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bilzen"
+  },
+  {
+    "name": "BINCHE",
+    "name_clean": "Binche",
+    "url": "https://nl.wikipedia.org/wiki/Station_Binche"
+  },
+  {
+    "name": "BISSEGEM",
+    "name_clean": "Bissegem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bissegem"
+  },
+  {
+    "name": "BLANKENBERGE",
+    "name_clean": "Blankenberge",
+    "url": "https://nl.wikipedia.org/wiki/Station_Blankenberge"
+  },
+  {
+    "name": "BLANMONT",
+    "name_clean": "Blanmont",
+    "url": "https://nl.wikipedia.org/wiki/Station_Blanmont"
+  },
+  {
+    "name": "BLATON",
+    "name_clean": "Blaton",
+    "url": "https://nl.wikipedia.org/wiki/Station_Blaton"
+  },
+  {
+    "name": "BLERET",
+    "name_clean": "Bleret",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bleret"
+  },
+  {
+    "name": "BOCKSTAEL",
+    "name_clean": "Bockstael",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bockstael"
+  },
+  {
+    "name": "BOECHOUT",
+    "name_clean": "Boechout",
+    "url": "https://nl.wikipedia.org/wiki/Station_Boechout"
+  },
+  {
+    "name": "BOKRIJK",
+    "name_clean": "Bokrijk",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bokrijk"
+  },
+  {
+    "name": "BOMAL",
+    "name_clean": "Bomal",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bomal"
+  },
+  {
+    "name": "BOOISCHOT",
+    "name_clean": "Booischot",
+    "url": "https://nl.wikipedia.org/wiki/Station_Booischot"
+  },
+  {
+    "name": "BOOM",
+    "name_clean": "Boom",
+    "url": "https://nl.wikipedia.org/wiki/Station_Boom"
+  },
+  {
+    "name": "BOONDAEL/BOONDAAL",
+    "name_clean": "Boondaal",
+    "url": "https://nl.wikipedia.org/wiki/Station_Boondaal"
+  },
+  {
+    "name": "BOORTMEERBEEK",
+    "name_clean": "Boortmeerbeek",
+    "url": "https://nl.wikipedia.org/wiki/Station_Boortmeerbeek"
+  },
+  {
+    "name": "BORDET",
+    "name_clean": "Bordet",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bordet"
+  },
+  {
+    "name": "BORNEM",
+    "name_clean": "Bornem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bornem"
+  },
+  {
+    "name": "BOITSFORT/BOSVOORDE",
+    "name_clean": "Bosvoorde",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bosvoorde"
+  },
+  {
+    "name": "BOUSSU",
+    "name_clean": "Boussu",
+    "url": "https://nl.wikipedia.org/wiki/Station_Boussu"
+  },
+  {
+    "name": "BOUWEL",
+    "name_clean": "Bouwel",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bouwel"
+  },
+  {
+    "name": "BRACQUEGNIES",
+    "name_clean": "Bracquegnies",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bracquegnies"
+  },
+  {
+    "name": "BRAINE-l’ALLEUD",
+    "name_clean": "Braine-l'Alleud",
+    "url": "https://nl.wikipedia.org/wiki/Station_Braine-l'Alleud"
+  },
+  {
+    "name": "BRAINE-LE-COMTE",
+    "name_clean": "Braine-le-Comte",
+    "url": "https://nl.wikipedia.org/wiki/Station_Braine-le-Comte"
+  },
+  {
+    "name": "BRESSOUX",
+    "name_clean": "Bressoux",
+    "url": "https://nl.wikipedia.org/wiki/Station_Bressoux"
+  },
+  {
+    "name": "BRUGELETTE",
+    "name_clean": "Brugelette",
+    "url": "https://nl.wikipedia.org/wiki/Station_Brugelette"
+  },
+  {
+    "name": "BRUGGE",
+    "name_clean": "Brugge",
+    "url": "https://nl.wikipedia.org/wiki/Station_Brugge"
+  },
+  {
+    "name": "BRUGGE-SINT-PIETERS",
+    "name_clean": "Brugge-Sint-Pieters",
+    "url": "https://nl.wikipedia.org/wiki/Station_Brugge-Sint-Pieters"
+  },
+  {
+    "name": "BRU.-CENT.",
+    "name_clean": "Brussel-Centraal",
+    "url": "https://nl.wikipedia.org/wiki/Station_Brussel-Centraal"
+  },
+  {
+    "name": "BRU.-CONG.",
+    "name_clean": "Brussel-Congres",
+    "url": "https://nl.wikipedia.org/wiki/Station_Brussel-Congres"
+  },
+  {
+    "name": "BRU.-CHAP./KAP.",
+    "name_clean": "Brussel-Kapellekerk",
+    "url": "https://nl.wikipedia.org/wiki/Station_Brussel-Kapellekerk"
+  },
+  {
+    "name": "BRU.-LUXEMBG",
+    "name_clean": "Brussel-Luxemburg",
+    "url": "https://nl.wikipedia.org/wiki/Station_Brussel-Luxemburg"
+  },
+  {
+    "name": "BRU.-NOORD/NORD",
+    "name_clean": "Brussel-Noord",
+    "url": "https://nl.wikipedia.org/wiki/Station_Brussel-Noord"
+  },
+  {
+    "name": "BRU.-SCHUMAN",
+    "name_clean": "Brussel-Schuman",
+    "url": "https://nl.wikipedia.org/wiki/Station_Brussel-Schuman"
+  },
+  {
+    "name": "BRU.-WEST/OUEST",
+    "name_clean": "Brussel-West",
+    "url": "https://nl.wikipedia.org/wiki/Station_Brussel-West"
+  },
+  {
+    "name": "BRU.-MIDI/ZUID",
+    "name_clean": "Brussel-Zuid",
+    "url": "https://nl.wikipedia.org/wiki/Station_Brussel-Zuid"
+  },
+  {
+    "name": "BRU. AIRPORT - ZAVENTEM",
+    "name_clean": "Brussels Airport-Zaventem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Brussels Airport-Zaventem"
+  },
+  {
+    "name": "BUDA",
+    "name_clean": "Buda",
+    "url": "https://nl.wikipedia.org/wiki/Station_Buda"
+  },
+  {
+    "name": "BUGGENHOUT",
+    "name_clean": "Buggenhout",
+    "url": "https://nl.wikipedia.org/wiki/Station_Buggenhout"
+  },
+  {
+    "name": "BUIZINGEN",
+    "name_clean": "Buizingen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Buizingen"
+  },
+  {
+    "name": "BURST",
+    "name_clean": "Burst",
+    "url": "https://nl.wikipedia.org/wiki/Station_Burst"
+  },
+  {
+    "name": "CALLENELLE",
+    "name_clean": "Callenelle",
+    "url": "https://nl.wikipedia.org/wiki/Station_Callenelle"
+  },
+  {
+    "name": "CAMBRON-CASTEAU",
+    "name_clean": "Cambron-Casteau",
+    "url": "https://nl.wikipedia.org/wiki/Station_Cambron-Casteau"
+  },
+  {
+    "name": "CARLSBOURG",
+    "name_clean": "Carlsbourg",
+    "url": "https://nl.wikipedia.org/wiki/Station_Carlsbourg"
+  },
+  {
+    "name": "CARNIERES",
+    "name_clean": "Carnières",
+    "url": "https://nl.wikipedia.org/wiki/Station_Carnières"
+  },
+  {
+    "name": "CHAUDFONTAINE",
+    "name_clean": "Chaudfontaine",
+    "url": "https://nl.wikipedia.org/wiki/Station_Chaudfontaine"
+  },
+  {
+    "name": "CHAPELLE-DIEU",
+    "name_clean": "Chapelle-Dieu",
+    "url": "https://nl.wikipedia.org/wiki/Station_Chapelle-Dieu"
+  },
+  {
+    "name": "CHAPOIS",
+    "name_clean": "Chapois",
+    "url": "https://nl.wikipedia.org/wiki/Station_Chapois"
+  },
+  {
+    "name": "CHARLEROI-OUEST",
+    "name_clean": "Charleroi-Ouest",
+    "url": "https://nl.wikipedia.org/wiki/Station_Charleroi-Ouest"
+  },
+  {
+    "name": "CHARLEROI-SUD",
+    "name_clean": "Charleroi-Sud",
+    "url": "https://nl.wikipedia.org/wiki/Station_Charleroi-Sud"
+  },
+  {
+    "name": "CHASTRE",
+    "name_clean": "Chastre",
+    "url": "https://nl.wikipedia.org/wiki/Station_Chastre"
+  },
+  {
+    "name": "CHATEAU-DE-SEILLES",
+    "name_clean": "Château-de-Seilles",
+    "url": "https://nl.wikipedia.org/wiki/Station_Château-de-Seilles"
+  },
+  {
+    "name": "CHATELET",
+    "name_clean": "Châtelet",
+    "url": "https://nl.wikipedia.org/wiki/Station_Châtelet"
+  },
+  {
+    "name": "CHENEE",
+    "name_clean": "Chênée",
+    "url": "https://nl.wikipedia.org/wiki/Station_Chênée"
+  },
+  {
+    "name": "CINEY",
+    "name_clean": "Ciney",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ciney"
+  },
+  {
+    "name": "COMBLAIN-LA-TOUR",
+    "name_clean": "Comblain-la-Tour",
+    "url": "https://nl.wikipedia.org/wiki/Station_Comblain-la-Tour"
+  },
+  {
+    "name": "COO",
+    "name_clean": "Coo",
+    "url": "https://nl.wikipedia.org/wiki/Station_Coo"
+  },
+  {
+    "name": "COUILLET",
+    "name_clean": "Couillet",
+    "url": "https://nl.wikipedia.org/wiki/Station_Couillet"
+  },
+  {
+    "name": "COUR-SUR-HEURE",
+    "name_clean": "Cour-sur-Heure",
+    "url": "https://nl.wikipedia.org/wiki/Station_Cour-sur-Heure"
+  },
+  {
+    "name": "COURCELLES-MOTTE",
+    "name_clean": "Courcelles-Motte",
+    "url": "https://nl.wikipedia.org/wiki/Station_Courcelles-Motte"
+  },
+  {
+    "name": "COURRIERE",
+    "name_clean": "Courrière",
+    "url": "https://nl.wikipedia.org/wiki/Station_Courrière"
+  },
+  {
+    "name": "COURT-SAINT-ETIENNE",
+    "name_clean": "Court-Saint-Étienne",
+    "url": "https://nl.wikipedia.org/wiki/Station_Court-Saint-Étienne"
+  },
+  {
+    "name": "COUVIN",
+    "name_clean": "Couvin",
+    "url": "https://nl.wikipedia.org/wiki/Station_Couvin"
+  },
+  {
+    "name": "CEROUX-MOUSTY",
+    "name_clean": "Céroux-Mousty",
+    "url": "https://nl.wikipedia.org/wiki/Station_Céroux-Mousty"
+  },
+  {
+    "name": "DAVE-SAINT-MARTIN",
+    "name_clean": "Dave-Saint-Martin",
+    "url": "https://nl.wikipedia.org/wiki/Station_Dave-Saint-Martin"
+  },
+  {
+    "name": "DE HOEK",
+    "name_clean": "De Hoek",
+    "url": "https://nl.wikipedia.org/wiki/Station_De Hoek"
+  },
+  {
+    "name": "DE PANNE",
+    "name_clean": "De Panne",
+    "url": "https://nl.wikipedia.org/wiki/Station_De Panne"
+  },
+  {
+    "name": "DE PINTE",
+    "name_clean": "De Pinte",
+    "url": "https://nl.wikipedia.org/wiki/Station_De Pinte"
+  },
+  {
+    "name": "DEINZE",
+    "name_clean": "Deinze",
+    "url": "https://nl.wikipedia.org/wiki/Station_Deinze"
+  },
+  {
+    "name": "DELTA",
+    "name_clean": "Delta",
+    "url": "https://nl.wikipedia.org/wiki/Station_Delta"
+  },
+  {
+    "name": "DENDERLEEUW",
+    "name_clean": "Denderleeuw",
+    "url": "https://nl.wikipedia.org/wiki/Station_Denderleeuw"
+  },
+  {
+    "name": "DENDERMONDE",
+    "name_clean": "Dendermonde",
+    "url": "https://nl.wikipedia.org/wiki/Station_Dendermonde"
+  },
+  {
+    "name": "DIEGEM",
+    "name_clean": "Diegem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Diegem"
+  },
+  {
+    "name": "DIEPENBEEK",
+    "name_clean": "Diepenbeek",
+    "url": "https://nl.wikipedia.org/wiki/Station_Diepenbeek"
+  },
+  {
+    "name": "VIVIER D’OIE/DIESDELLE",
+    "name_clean": "Diesdelle",
+    "url": "https://nl.wikipedia.org/wiki/Station_Diesdelle"
+  },
+  {
+    "name": "DIEST",
+    "name_clean": "Diest",
+    "url": "https://nl.wikipedia.org/wiki/Station_Diest"
+  },
+  {
+    "name": "DIKSMUIDE",
+    "name_clean": "Diksmuide",
+    "url": "https://nl.wikipedia.org/wiki/Station_Diksmuide"
+  },
+  {
+    "name": "DILBEEK",
+    "name_clean": "Dilbeek",
+    "url": "https://nl.wikipedia.org/wiki/Station_Dilbeek"
+  },
+  {
+    "name": "DINANT",
+    "name_clean": "Dinant",
+    "url": "https://nl.wikipedia.org/wiki/Station_Dinant"
+  },
+  {
+    "name": "DOLHAIN-GILEPPE",
+    "name_clean": "Dolhain-Gileppe",
+    "url": "https://nl.wikipedia.org/wiki/Station_Dolhain-Gileppe"
+  },
+  {
+    "name": "DRONGEN",
+    "name_clean": "Drongen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Drongen"
+  },
+  {
+    "name": "DUFFEL",
+    "name_clean": "Duffel",
+    "url": "https://nl.wikipedia.org/wiki/Station_Duffel"
+  },
+  {
+    "name": "DUINBERGEN",
+    "name_clean": "Duinbergen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Duinbergen"
+  },
+  {
+    "name": "ECAUSSINNES",
+    "name_clean": "Ecaussinnes",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ecaussinnes"
+  },
+  {
+    "name": "EDE",
+    "name_clean": "Ede",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ede"
+  },
+  {
+    "name": "ENGHIEN/EDINGEN",
+    "name_clean": "Edingen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Edingen"
+  },
+  {
+    "name": "EEKLO",
+    "name_clean": "Eeklo",
+    "url": "https://nl.wikipedia.org/wiki/Station_Eeklo"
+  },
+  {
+    "name": "EICHEM",
+    "name_clean": "Eichem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Eichem"
+  },
+  {
+    "name": "EINE",
+    "name_clean": "Eine",
+    "url": "https://nl.wikipedia.org/wiki/Station_Eine"
+  },
+  {
+    "name": "EKE-NAZARETH",
+    "name_clean": "Eke-Nazareth",
+    "url": "https://nl.wikipedia.org/wiki/Station_Eke-Nazareth"
+  },
+  {
+    "name": "EKEREN",
+    "name_clean": "Ekeren",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ekeren"
+  },
+  {
+    "name": "ENGIS",
+    "name_clean": "Engis",
+    "url": "https://nl.wikipedia.org/wiki/Station_Engis"
+  },
+  {
+    "name": "EPPEGEM",
+    "name_clean": "Eppegem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Eppegem"
+  },
+  {
+    "name": "ERBISOEUL",
+    "name_clean": "Erbisœul",
+    "url": "https://nl.wikipedia.org/wiki/Station_Erbisoeul"
+  },
+  {
+    "name": "EREMBODEGEM",
+    "name_clean": "Erembodegem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Erembodegem"
+  },
+  {
+    "name": "ERNAGE",
+    "name_clean": "Ernage",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ernage"
+  },
+  {
+    "name": "ERPE-MERE",
+    "name_clean": "Erpe-Mere",
+    "url": "https://nl.wikipedia.org/wiki/Station_Erpe-Mere"
+  },
+  {
+    "name": "ERPS-KWERPS",
+    "name_clean": "Erps-Kwerps",
+    "url": "https://nl.wikipedia.org/wiki/Station_Erps-Kwerps"
+  },
+  {
+    "name": "ERQUELINNES",
+    "name_clean": "Erquelinnes",
+    "url": "https://nl.wikipedia.org/wiki/Station_Erquelinnes"
+  },
+  {
+    "name": "ERQUELINNES-VILLAGE",
+    "name_clean": "Erquelinnes-Village",
+    "url": "https://nl.wikipedia.org/wiki/Station_Erquelinnes-Village"
+  },
+  {
+    "name": "ESNEUX",
+    "name_clean": "Esneux",
+    "url": "https://nl.wikipedia.org/wiki/Station_Esneux"
+  },
+  {
+    "name": "ESSEN",
+    "name_clean": "Essen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Essen"
+  },
+  {
+    "name": "ESSENE-LOMBEEK",
+    "name_clean": "Essene-Lombeek",
+    "url": "https://nl.wikipedia.org/wiki/Station_Essene-Lombeek"
+  },
+  {
+    "name": "ETTERBEEK",
+    "name_clean": "Etterbeek",
+    "url": "https://nl.wikipedia.org/wiki/Station_Etterbeek"
+  },
+  {
+    "name": "EUPEN",
+    "name_clean": "Eupen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Eupen"
+  },
+  {
+    "name": "EVERE",
+    "name_clean": "Evere",
+    "url": "https://nl.wikipedia.org/wiki/Station_Evere"
+  },
+  {
+    "name": "EVERGEM",
+    "name_clean": "Evergem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Evergem"
+  },
+  {
+    "name": "EZEMAAL",
+    "name_clean": "Ezemaal",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ezemaal"
+  },
+  {
+    "name": "FAMILLEUREUX",
+    "name_clean": "Familleureux",
+    "url": "https://nl.wikipedia.org/wiki/Station_Familleureux"
+  },
+  {
+    "name": "FARCIENNES",
+    "name_clean": "Farciennes",
+    "url": "https://nl.wikipedia.org/wiki/Station_Farciennes"
+  },
+  {
+    "name": "FAUX",
+    "name_clean": "Faux",
+    "url": "https://nl.wikipedia.org/wiki/Station_Faux"
+  },
+  {
+    "name": "FEXHE-LE-HT-CLOCHER",
+    "name_clean": "Fexhe-le-Haut-Clocher",
+    "url": "https://nl.wikipedia.org/wiki/Station_Fexhe-le-Haut-Clocher"
+  },
+  {
+    "name": "FLAWINNE",
+    "name_clean": "Flawinne",
+    "url": "https://nl.wikipedia.org/wiki/Station_Flawinne"
+  },
+  {
+    "name": "FLEURUS",
+    "name_clean": "Fleurus",
+    "url": "https://nl.wikipedia.org/wiki/Station_Fleurus"
+  },
+  {
+    "name": "FLOREFFE",
+    "name_clean": "Floreffe",
+    "url": "https://nl.wikipedia.org/wiki/Station_Floreffe"
+  },
+  {
+    "name": "FLORENVILLE",
+    "name_clean": "Florenville",
+    "url": "https://nl.wikipedia.org/wiki/Station_Florenville"
+  },
+  {
+    "name": "FLORIVAL",
+    "name_clean": "Florival",
+    "url": "https://nl.wikipedia.org/wiki/Station_Florival"
+  },
+  {
+    "name": "FLEMALLE-GRANDE",
+    "name_clean": "Flémalle-Grande",
+    "url": "https://nl.wikipedia.org/wiki/Station_Flémalle-Grande"
+  },
+  {
+    "name": "FLEMALLE-HAUTE",
+    "name_clean": "Flémalle-Haute",
+    "url": "https://nl.wikipedia.org/wiki/Station_Flémalle-Haute"
+  },
+  {
+    "name": "FONTAINE-VALMONT",
+    "name_clean": "Fontaine-Valmont",
+    "url": "https://nl.wikipedia.org/wiki/Station_Fontaine-Valmont"
+  },
+  {
+    "name": "FORCHIES",
+    "name_clean": "Forchies",
+    "url": "https://nl.wikipedia.org/wiki/Station_Forchies"
+  },
+  {
+    "name": "FORRIERES",
+    "name_clean": "Forrières",
+    "url": "https://nl.wikipedia.org/wiki/Station_Forrières"
+  },
+  {
+    "name": "FRAIPONT",
+    "name_clean": "Fraipont",
+    "url": "https://nl.wikipedia.org/wiki/Station_Fraipont"
+  },
+  {
+    "name": "FRAMERIES",
+    "name_clean": "Frameries",
+    "url": "https://nl.wikipedia.org/wiki/Station_Frameries"
+  },
+  {
+    "name": "FRANCHIMONT",
+    "name_clean": "Franchimont",
+    "url": "https://nl.wikipedia.org/wiki/Station_Franchimont"
+  },
+  {
+    "name": "FRANIERE",
+    "name_clean": "Franière",
+    "url": "https://nl.wikipedia.org/wiki/Station_Franière"
+  },
+  {
+    "name": "FROYENNES",
+    "name_clean": "Froyennes",
+    "url": "https://nl.wikipedia.org/wiki/Station_Froyennes"
+  },
+  {
+    "name": "GALMAARDEN",
+    "name_clean": "Galmaarden",
+    "url": "https://nl.wikipedia.org/wiki/Station_Galmaarden"
+  },
+  {
+    "name": "GASTUCHE",
+    "name_clean": "Gastuche",
+    "url": "https://nl.wikipedia.org/wiki/Station_Gastuche"
+  },
+  {
+    "name": "GAVERE-ASPER",
+    "name_clean": "Gavere-Asper",
+    "url": "https://nl.wikipedia.org/wiki/Station_Gavere-Asper"
+  },
+  {
+    "name": "GEDINNE",
+    "name_clean": "Gedinne",
+    "url": "https://nl.wikipedia.org/wiki/Station_Gedinne"
+  },
+  {
+    "name": "GEEL",
+    "name_clean": "Geel",
+    "url": "https://nl.wikipedia.org/wiki/Station_Geel"
+  },
+  {
+    "name": "GEMBLOUX",
+    "name_clean": "Gembloux",
+    "url": "https://nl.wikipedia.org/wiki/Station_Gembloux"
+  },
+  {
+    "name": "GENDRON-CELLES",
+    "name_clean": "Gendron-Celles",
+    "url": "https://nl.wikipedia.org/wiki/Station_Gendron-Celles"
+  },
+  {
+    "name": "GENK",
+    "name_clean": "Genk",
+    "url": "https://nl.wikipedia.org/wiki/Station_Genk"
+  },
+  {
+    "name": "GENLY",
+    "name_clean": "Genly",
+    "url": "https://nl.wikipedia.org/wiki/Station_Genly"
+  },
+  {
+    "name": "GENT-DAMPOORT",
+    "name_clean": "Gent-Dampoort",
+    "url": "https://nl.wikipedia.org/wiki/Station_Gent-Dampoort"
+  },
+  {
+    "name": "GENT-SINT-PIETERS",
+    "name_clean": "Gent-Sint-Pieters",
+    "url": "https://nl.wikipedia.org/wiki/Station_Gent-Sint-Pieters"
+  },
+  {
+    "name": "GENTBRUGGE",
+    "name_clean": "Gentbrugge",
+    "url": "https://nl.wikipedia.org/wiki/Station_Gentbrugge"
+  },
+  {
+    "name": "GENVAL",
+    "name_clean": "Genval",
+    "url": "https://nl.wikipedia.org/wiki/Station_Genval"
+  },
+  {
+    "name": "GERAARDSBERGEN",
+    "name_clean": "Geraardsbergen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Geraardsbergen"
+  },
+  {
+    "name": "GERMOIR/MOUTERIJ",
+    "name_clean": "Mouterij",
+    "url": "https://nl.wikipedia.org/wiki/Station_Mouterij"
+  },
+  {
+    "name": "GHLIN",
+    "name_clean": "Ghlin",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ghlin"
+  },
+  {
+    "name": "GLONS",
+    "name_clean": "Glons",
+    "url": "https://nl.wikipedia.org/wiki/Station_Glons"
+  },
+  {
+    "name": "GODARVILLE",
+    "name_clean": "Godarville",
+    "url": "https://nl.wikipedia.org/wiki/Station_Godarville"
+  },
+  {
+    "name": "GODINNE",
+    "name_clean": "Godinne",
+    "url": "https://nl.wikipedia.org/wiki/Station_Godinne"
+  },
+  {
+    "name": "GONTRODE",
+    "name_clean": "Gontrode",
+    "url": "https://nl.wikipedia.org/wiki/Station_Gontrode"
+  },
+  {
+    "name": "GOUVY",
+    "name_clean": "Gouvy",
+    "url": "https://nl.wikipedia.org/wiki/Station_Gouvy"
+  },
+  {
+    "name": "GOUY-LEZ-PIETON",
+    "name_clean": "Gouy-lez-Piéton",
+    "url": "https://nl.wikipedia.org/wiki/Station_Gouy-lez-Piéton"
+  },
+  {
+    "name": "GRAIDE",
+    "name_clean": "Graide",
+    "url": "https://nl.wikipedia.org/wiki/Station_Graide"
+  },
+  {
+    "name": "GROENENDAAL",
+    "name_clean": "Groenendaal",
+    "url": "https://nl.wikipedia.org/wiki/Station_Groenendaal"
+  },
+  {
+    "name": "GROOT-BIJGAARDEN",
+    "name_clean": "Groot-Bijgaarden",
+    "url": "https://nl.wikipedia.org/wiki/Station_Groot-Bijgaarden"
+  },
+  {
+    "name": "GRUPONT",
+    "name_clean": "Grupont",
+    "url": "https://nl.wikipedia.org/wiki/Station_Grupont"
+  },
+  {
+    "name": "HAACHT",
+    "name_clean": "Haacht",
+    "url": "https://nl.wikipedia.org/wiki/Station_Haacht"
+  },
+  {
+    "name": "HAALTERT",
+    "name_clean": "Haaltert",
+    "url": "https://nl.wikipedia.org/wiki/Station_Haaltert"
+  },
+  {
+    "name": "HABAY",
+    "name_clean": "Habay",
+    "url": "https://nl.wikipedia.org/wiki/Station_Habay"
+  },
+  {
+    "name": "HAININ",
+    "name_clean": "Hainin",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hainin"
+  },
+  {
+    "name": "HALANZY",
+    "name_clean": "Halanzy",
+    "url": "https://nl.wikipedia.org/wiki/Station_Halanzy"
+  },
+  {
+    "name": "HALLE",
+    "name_clean": "Halle",
+    "url": "https://nl.wikipedia.org/wiki/Station_Halle"
+  },
+  {
+    "name": "HAM-SUR-HEURE",
+    "name_clean": "Ham-sur-Heure",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ham-sur-Heure"
+  },
+  {
+    "name": "HAM-SUR-SAMBRE",
+    "name_clean": "Ham-sur-Sambre",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ham-sur-Sambre"
+  },
+  {
+    "name": "HAMBOS",
+    "name_clean": "Hambos",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hambos"
+  },
+  {
+    "name": "HAMOIR",
+    "name_clean": "Hamoir",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hamoir"
+  },
+  {
+    "name": "HAMONT",
+    "name_clean": "Hamont",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hamont"
+  },
+  {
+    "name": "HANSBEKE",
+    "name_clean": "Hansbeke",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hansbeke"
+  },
+  {
+    "name": "HARCHIES",
+    "name_clean": "Harchies",
+    "url": "https://nl.wikipedia.org/wiki/Station_Harchies"
+  },
+  {
+    "name": "HARELBEKE",
+    "name_clean": "Harelbeke",
+    "url": "https://nl.wikipedia.org/wiki/Station_Harelbeke"
+  },
+  {
+    "name": "HAREN",
+    "name_clean": "Haren",
+    "url": "https://nl.wikipedia.org/wiki/Station_Haren"
+  },
+  {
+    "name": "HAREN-ZUID/SUD",
+    "name_clean": "Haren-Zuid",
+    "url": "https://nl.wikipedia.org/wiki/Station_Haren-Zuid"
+  },
+  {
+    "name": "HASSELT",
+    "name_clean": "Hasselt",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hasselt"
+  },
+  {
+    "name": "HAUTE-FLONE",
+    "name_clean": "Haute-Flône",
+    "url": "https://nl.wikipedia.org/wiki/Station_Haute-Flône"
+  },
+  {
+    "name": "HAVERSIN",
+    "name_clean": "Haversin",
+    "url": "https://nl.wikipedia.org/wiki/Station_Haversin"
+  },
+  {
+    "name": "HAVRE",
+    "name_clean": "Havré",
+    "url": "https://nl.wikipedia.org/wiki/Station_Havré"
+  },
+  {
+    "name": "HEIDE",
+    "name_clean": "Heide",
+    "url": "https://nl.wikipedia.org/wiki/Station_Heide"
+  },
+  {
+    "name": "HEIST",
+    "name_clean": "Heist",
+    "url": "https://nl.wikipedia.org/wiki/Station_Heist"
+  },
+  {
+    "name": "HEIST-OP-DEN-BERG",
+    "name_clean": "Heist-op-den-Berg",
+    "url": "https://nl.wikipedia.org/wiki/Station_Heist-op-den-Berg"
+  },
+  {
+    "name": "HEIZIJDE",
+    "name_clean": "Heizijde",
+    "url": "https://nl.wikipedia.org/wiki/Station_Heizijde"
+  },
+  {
+    "name": "HEMIKSEM",
+    "name_clean": "Hemiksem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hemiksem"
+  },
+  {
+    "name": "HENNUYERES",
+    "name_clean": "Hennuyères",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hennuyères"
+  },
+  {
+    "name": "HERENT",
+    "name_clean": "Herent",
+    "url": "https://nl.wikipedia.org/wiki/Station_Herent"
+  },
+  {
+    "name": "HERENTALS",
+    "name_clean": "Herentals",
+    "url": "https://nl.wikipedia.org/wiki/Station_Herentals"
+  },
+  {
+    "name": "HERGENRATH",
+    "name_clean": "Hergenrath",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hergenrath"
+  },
+  {
+    "name": "HERNE",
+    "name_clean": "Herne",
+    "url": "https://nl.wikipedia.org/wiki/Station_Herne"
+  },
+  {
+    "name": "HERSEAUX",
+    "name_clean": "Herseaux",
+    "url": "https://nl.wikipedia.org/wiki/Station_Herseaux"
+  },
+  {
+    "name": "HERSTAL",
+    "name_clean": "Herstal",
+    "url": "https://nl.wikipedia.org/wiki/Station_Herstal"
+  },
+  {
+    "name": "HERZELE",
+    "name_clean": "Herzele",
+    "url": "https://nl.wikipedia.org/wiki/Station_Herzele"
+  },
+  {
+    "name": "HEUSDEN",
+    "name_clean": "Heusden",
+    "url": "https://nl.wikipedia.org/wiki/Station_Heusden"
+  },
+  {
+    "name": "HEVER",
+    "name_clean": "Hever",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hever"
+  },
+  {
+    "name": "HEVERLEE",
+    "name_clean": "Heverlee",
+    "url": "https://nl.wikipedia.org/wiki/Station_Heverlee"
+  },
+  {
+    "name": "HILLEGEM",
+    "name_clean": "Hillegem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hillegem"
+  },
+  {
+    "name": "HOBOKEN-POLDER",
+    "name_clean": "Hoboken-Polder",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hoboken-Polder"
+  },
+  {
+    "name": "HOEILAART",
+    "name_clean": "Hoeilaart",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hoeilaart"
+  },
+  {
+    "name": "HOFSTADE",
+    "name_clean": "Hofstade",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hofstade"
+  },
+  {
+    "name": "HOLLEKEN",
+    "name_clean": "Holleken",
+    "url": "https://nl.wikipedia.org/wiki/Station_Holleken"
+  },
+  {
+    "name": "HONY",
+    "name_clean": "Hony",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hony"
+  },
+  {
+    "name": "HOURAING",
+    "name_clean": "Houraing",
+    "url": "https://nl.wikipedia.org/wiki/Station_Houraing"
+  },
+  {
+    "name": "HOURPES",
+    "name_clean": "Hourpes",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hourpes"
+  },
+  {
+    "name": "HOUYET",
+    "name_clean": "Houyet",
+    "url": "https://nl.wikipedia.org/wiki/Station_Houyet"
+  },
+  {
+    "name": "HOVE",
+    "name_clean": "Hove",
+    "url": "https://nl.wikipedia.org/wiki/Station_Hove"
+  },
+  {
+    "name": "HUIZINGEN",
+    "name_clean": "Huizingen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Huizingen"
+  },
+  {
+    "name": "HUY",
+    "name_clean": "Huy",
+    "url": "https://nl.wikipedia.org/wiki/Station_Huy"
+  },
+  {
+    "name": "IDDERGEM",
+    "name_clean": "Iddergem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Iddergem"
+  },
+  {
+    "name": "IDEGEM",
+    "name_clean": "Idegem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Idegem"
+  },
+  {
+    "name": "IEPER",
+    "name_clean": "Ieper",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ieper"
+  },
+  {
+    "name": "INGELMUNSTER",
+    "name_clean": "Ingelmunster",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ingelmunster"
+  },
+  {
+    "name": "IZEGEM",
+    "name_clean": "Izegem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Izegem"
+  },
+  {
+    "name": "JAMBES",
+    "name_clean": "Jambes",
+    "url": "https://nl.wikipedia.org/wiki/Station_Jambes"
+  },
+  {
+    "name": "JAMBES-EST",
+    "name_clean": "Jambes-Est",
+    "url": "https://nl.wikipedia.org/wiki/Station_Jambes-Est"
+  },
+  {
+    "name": "JAMIOULX",
+    "name_clean": "Jamioulx",
+    "url": "https://nl.wikipedia.org/wiki/Station_Jamioulx"
+  },
+  {
+    "name": "JEMAPPES",
+    "name_clean": "Jemappes",
+    "url": "https://nl.wikipedia.org/wiki/Station_Jemappes"
+  },
+  {
+    "name": "ROCHEFORT-JEMELLE",
+    "name_clean": "Rochefort-Jemelle",
+    "url": "https://nl.wikipedia.org/wiki/Station_Rochefort-Jemelle"
+  },
+  {
+    "name": "JEMEPPE-SUR-MEUSE",
+    "name_clean": "Jemeppe-sur-Meuse",
+    "url": "https://nl.wikipedia.org/wiki/Station_Jemeppe-sur-Meuse"
+  },
+  {
+    "name": "JEMEPPE-SUR-SAMBRE",
+    "name_clean": "Jemeppe-sur-Sambre",
+    "url": "https://nl.wikipedia.org/wiki/Station_Jemeppe-sur-Sambre"
+  },
+  {
+    "name": "JETTE",
+    "name_clean": "Jette",
+    "url": "https://nl.wikipedia.org/wiki/Station_Jette"
+  },
+  {
+    "name": "JURBISE",
+    "name_clean": "Jurbise",
+    "url": "https://nl.wikipedia.org/wiki/Station_Jurbise"
+  },
+  {
+    "name": "JUSLENVILLE",
+    "name_clean": "Juslenville",
+    "url": "https://nl.wikipedia.org/wiki/Station_Juslenville"
+  },
+  {
+    "name": "KALMTHOUT",
+    "name_clean": "Kalmthout",
+    "url": "https://nl.wikipedia.org/wiki/Station_Kalmthout"
+  },
+  {
+    "name": "KAPELLE-OP-DEN-BOS",
+    "name_clean": "Kapelle-op-den-Bos",
+    "url": "https://nl.wikipedia.org/wiki/Station_Kapelle-op-den-Bos"
+  },
+  {
+    "name": "KAPELLEN",
+    "name_clean": "Kapellen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Kapellen"
+  },
+  {
+    "name": "KESSEL",
+    "name_clean": "Kessel",
+    "url": "https://nl.wikipedia.org/wiki/Station_Kessel"
+  },
+  {
+    "name": "KIEWIT",
+    "name_clean": "Kiewit",
+    "url": "https://nl.wikipedia.org/wiki/Station_Kiewit"
+  },
+  {
+    "name": "KIJKUIT",
+    "name_clean": "Kijkuit",
+    "url": "https://nl.wikipedia.org/wiki/Station_Kijkuit"
+  },
+  {
+    "name": "KNOKKE",
+    "name_clean": "Knokke",
+    "url": "https://nl.wikipedia.org/wiki/Station_Knokke"
+  },
+  {
+    "name": "KOKSIJDE",
+    "name_clean": "Koksijde",
+    "url": "https://nl.wikipedia.org/wiki/Station_Koksijde"
+  },
+  {
+    "name": "COMINES/KOMEN",
+    "name_clean": "Komen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Komen_(Belgi%C3%AB)"
+  },
+  {
+    "name": "KONTICH-LINT",
+    "name_clean": "Kontich-Lint",
+    "url": "https://nl.wikipedia.org/wiki/Station_Kontich-Lint"
+  },
+  {
+    "name": "KORTEMARK",
+    "name_clean": "Kortemark",
+    "url": "https://nl.wikipedia.org/wiki/Station_Kortemark"
+  },
+  {
+    "name": "KORTENBERG",
+    "name_clean": "Kortenberg",
+    "url": "https://nl.wikipedia.org/wiki/Station_Kortenberg"
+  },
+  {
+    "name": "KORTRIJK",
+    "name_clean": "Kortrijk",
+    "url": "https://nl.wikipedia.org/wiki/Station_Kortrijk"
+  },
+  {
+    "name": "KWATRECHT",
+    "name_clean": "Kwatrecht",
+    "url": "https://nl.wikipedia.org/wiki/Station_Kwatrecht"
+  },
+  {
+    "name": "LA HULPE",
+    "name_clean": "La Hulpe",
+    "url": "https://nl.wikipedia.org/wiki/Station_La Hulpe"
+  },
+  {
+    "name": "LA LOUVIERE-CENTRE",
+    "name_clean": "La Louvière-Centre",
+    "url": "https://nl.wikipedia.org/wiki/Station_La Louvière-Centre"
+  },
+  {
+    "name": "LA LOUVIERE-SUD",
+    "name_clean": "La Louvière-Sud",
+    "url": "https://nl.wikipedia.org/wiki/Station_La Louvière-Sud"
+  },
+  {
+    "name": "LA ROCHE",
+    "name_clean": "La Roche",
+    "url": "https://nl.wikipedia.org/wiki/Station_La Roche"
+  },
+  {
+    "name": "LABUISSIERE",
+    "name_clean": "Labuissière",
+    "url": "https://nl.wikipedia.org/wiki/Station_Labuissière"
+  },
+  {
+    "name": "LANDEGEM",
+    "name_clean": "Landegem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Landegem"
+  },
+  {
+    "name": "LANDELIES",
+    "name_clean": "Landelies",
+    "url": "https://nl.wikipedia.org/wiki/Station_Landelies"
+  },
+  {
+    "name": "LANDEN",
+    "name_clean": "Landen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Landen"
+  },
+  {
+    "name": "LANDSKOUTER",
+    "name_clean": "Landskouter",
+    "url": "https://nl.wikipedia.org/wiki/Station_Landskouter"
+  },
+  {
+    "name": "LANGDORP",
+    "name_clean": "Langdorp",
+    "url": "https://nl.wikipedia.org/wiki/Station_Langdorp"
+  },
+  {
+    "name": "LEBBEKE",
+    "name_clean": "Lebbeke",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lebbeke"
+  },
+  {
+    "name": "LE CAMPINAIRE",
+    "name_clean": "Le Campinaire",
+    "url": "https://nl.wikipedia.org/wiki/Station_Le_Campinaire"
+  },
+  {
+    "name": "LEDE",
+    "name_clean": "Lede",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lede"
+  },
+  {
+    "name": "LEIGNON",
+    "name_clean": "Leignon",
+    "url": "https://nl.wikipedia.org/wiki/Station_Leignon"
+  },
+  {
+    "name": "LEMAN",
+    "name_clean": "Leman",
+    "url": "https://nl.wikipedia.org/wiki/Station_Leman"
+  },
+  {
+    "name": "LEMBEEK",
+    "name_clean": "Lembeek",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lembeek"
+  },
+  {
+    "name": "LENS",
+    "name_clean": "Lens",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lens"
+  },
+  {
+    "name": "LEOPOLDSBURG",
+    "name_clean": "Leopoldsburg",
+    "url": "https://nl.wikipedia.org/wiki/Station_Leopoldsburg"
+  },
+  {
+    "name": "LESSINES",
+    "name_clean": "Lessines",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lessines"
+  },
+  {
+    "name": "LEUVEN",
+    "name_clean": "Leuven",
+    "url": "https://nl.wikipedia.org/wiki/Station_Leuven"
+  },
+  {
+    "name": "LEUZE",
+    "name_clean": "Leuze",
+    "url": "https://nl.wikipedia.org/wiki/Station_Leuze"
+  },
+  {
+    "name": "LEVAL",
+    "name_clean": "Leval",
+    "url": "https://nl.wikipedia.org/wiki/Station_Leval"
+  },
+  {
+    "name": "LIBRAMONT",
+    "name_clean": "Libramont",
+    "url": "https://nl.wikipedia.org/wiki/Station_Libramont"
+  },
+  {
+    "name": "LICHTERVELDE",
+    "name_clean": "Lichtervelde",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lichtervelde"
+  },
+  {
+    "name": "LIEDEKERKE",
+    "name_clean": "Liedekerke",
+    "url": "https://nl.wikipedia.org/wiki/Station_Liedekerke"
+  },
+  {
+    "name": "LIER",
+    "name_clean": "Lier",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lier"
+  },
+  {
+    "name": "LIERDE",
+    "name_clean": "Lierde",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lierde"
+  },
+  {
+    "name": "LIERS",
+    "name_clean": "Liers",
+    "url": "https://nl.wikipedia.org/wiki/Station_Liers"
+  },
+  {
+    "name": "LIGNY",
+    "name_clean": "Ligny",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ligny"
+  },
+  {
+    "name": "LILLOIS",
+    "name_clean": "Lillois",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lillois"
+  },
+  {
+    "name": "LIMAL",
+    "name_clean": "Limal",
+    "url": "https://nl.wikipedia.org/wiki/Station_Limal"
+  },
+  {
+    "name": "LINKEBEEK",
+    "name_clean": "Linkebeek",
+    "url": "https://nl.wikipedia.org/wiki/Station_Linkebeek"
+  },
+  {
+    "name": "LISSEWEGE",
+    "name_clean": "Lissewege",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lissewege"
+  },
+  {
+    "name": "LIEGE-GUILLEMINS",
+    "name_clean": "Liège-Guillemins",
+    "url": "https://nl.wikipedia.org/wiki/Station_Liège-Guillemins"
+  },
+  {
+    "name": "LIEGE-CARRE",
+    "name_clean": "Liège-Carré",
+    "url": "https://nl.wikipedia.org/wiki/Station_Liège-Carré"
+  },
+  {
+    "name": "LIEGE-SAINT-LAMBERT",
+    "name_clean": "Liège-Saint-Lambert",
+    "url": "https://nl.wikipedia.org/wiki/Station_Liège-Saint-Lambert"
+  },
+  {
+    "name": "LOBBES",
+    "name_clean": "Lobbes",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lobbes"
+  },
+  {
+    "name": "LODELINSART",
+    "name_clean": "Lodelinsart",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lodelinsart"
+  },
+  {
+    "name": "LOKEREN",
+    "name_clean": "Lokeren",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lokeren"
+  },
+  {
+    "name": "LOMMEL",
+    "name_clean": "Lommel",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lommel"
+  },
+  {
+    "name": "LONDERZEEL",
+    "name_clean": "Londerzeel",
+    "url": "https://nl.wikipedia.org/wiki/Station_Londerzeel"
+  },
+  {
+    "name": "LONZEE",
+    "name_clean": "Lonzée",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lonzée"
+  },
+  {
+    "name": "LOT",
+    "name_clean": "Lot",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lot"
+  },
+  {
+    "name": "LOUVAIN-LA-NEUVE",
+    "name_clean": "Louvain-la-Neuve",
+    "url": "https://nl.wikipedia.org/wiki/Station_Louvain-la-Neuve"
+  },
+  {
+    "name": "LUSTIN",
+    "name_clean": "Lustin",
+    "url": "https://nl.wikipedia.org/wiki/Station_Lustin"
+  },
+  {
+    "name": "LUTTRE",
+    "name_clean": "Luttre",
+    "url": "https://nl.wikipedia.org/wiki/Station_Luttre"
+  },
+  {
+    "name": "MAFFLE",
+    "name_clean": "Maffle",
+    "url": "https://nl.wikipedia.org/wiki/Station_Maffle"
+  },
+  {
+    "name": "MALDEREN",
+    "name_clean": "Malderen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Malderen"
+  },
+  {
+    "name": "MANAGE",
+    "name_clean": "Manage",
+    "url": "https://nl.wikipedia.org/wiki/Station_Manage"
+  },
+  {
+    "name": "MARBEHAN",
+    "name_clean": "Marbehan",
+    "url": "https://nl.wikipedia.org/wiki/Station_Marbehan"
+  },
+  {
+    "name": "MARCHE-EN-FAMENNE",
+    "name_clean": "Marche-en-Famenne",
+    "url": "https://nl.wikipedia.org/wiki/Station_Marche-en-Famenne"
+  },
+  {
+    "name": "MARCHE-LES-DAMES",
+    "name_clean": "Marche-les-Dames",
+    "url": "https://nl.wikipedia.org/wiki/Station_Marche-les-Dames"
+  },
+  {
+    "name": "MARCHE-LEZ-ECAUSSINNES",
+    "name_clean": "Marche-lez-Ecaussinnes",
+    "url": "https://nl.wikipedia.org/wiki/Station_Marche-lez-Ecaussinnes"
+  },
+  {
+    "name": "MARCHIENNE-ZONE",
+    "name_clean": "Marchienne-Zône",
+    "url": "https://nl.wikipedia.org/wiki/Station_Marchienne-Zône"
+  },
+  {
+    "name": "MARCHIENNE-AU-PONT",
+    "name_clean": "Marchienne-au-Pont",
+    "url": "https://nl.wikipedia.org/wiki/Station_Marchienne-au-Pont"
+  },
+  {
+    "name": "MARIA-AALTER",
+    "name_clean": "Maria-Aalter",
+    "url": "https://nl.wikipedia.org/wiki/Station_Maria-Aalter"
+  },
+  {
+    "name": "MARIEMBOURG",
+    "name_clean": "Mariembourg",
+    "url": "https://nl.wikipedia.org/wiki/Station_Mariembourg"
+  },
+  {
+    "name": "MARLOIE",
+    "name_clean": "Marloie",
+    "url": "https://nl.wikipedia.org/wiki/Station_Marloie"
+  },
+  {
+    "name": "MASNUY-SAINT-PIERRE",
+    "name_clean": "Masnuy-Saint-Pierre",
+    "url": "https://nl.wikipedia.org/wiki/Station_Masnuy-Saint-Pierre"
+  },
+  {
+    "name": "MAUBRAY",
+    "name_clean": "Maubray",
+    "url": "https://nl.wikipedia.org/wiki/Station_Maubray"
+  },
+  {
+    "name": "MAZY",
+    "name_clean": "Mazy",
+    "url": "https://nl.wikipedia.org/wiki/Station_Mazy"
+  },
+  {
+    "name": "MECHELEN",
+    "name_clean": "Mechelen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Mechelen"
+  },
+  {
+    "name": "MECHELEN-NEKKERSPOEL",
+    "name_clean": "Mechelen-Nekkerspoel",
+    "url": "https://nl.wikipedia.org/wiki/Station_Mechelen-Nekkerspoel"
+  },
+  {
+    "name": "MEISER",
+    "name_clean": "Meiser",
+    "url": "https://nl.wikipedia.org/wiki/Station_Meiser"
+  },
+  {
+    "name": "MELKOUWEN",
+    "name_clean": "Melkouwen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Melkouwen"
+  },
+  {
+    "name": "MELLE",
+    "name_clean": "Melle",
+    "url": "https://nl.wikipedia.org/wiki/Station_Melle"
+  },
+  {
+    "name": "MELREUX-HOTTON",
+    "name_clean": "Melreux-Hotton",
+    "url": "https://nl.wikipedia.org/wiki/Station_Melreux-Hotton"
+  },
+  {
+    "name": "MELSELE",
+    "name_clean": "Melsele",
+    "url": "https://nl.wikipedia.org/wiki/Station_Melsele"
+  },
+  {
+    "name": "MENEN",
+    "name_clean": "Menen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Menen"
+  },
+  {
+    "name": "MERCHTEM",
+    "name_clean": "Merchtem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Merchtem"
+  },
+  {
+    "name": "MERELBEKE",
+    "name_clean": "Merelbeke",
+    "url": "https://nl.wikipedia.org/wiki/Station_Merelbeke"
+  },
+  {
+    "name": "MERODE",
+    "name_clean": "Merode",
+    "url": "https://nl.wikipedia.org/wiki/Station_Merode"
+  },
+  {
+    "name": "MESSANCY",
+    "name_clean": "Messancy",
+    "url": "https://nl.wikipedia.org/wiki/Station_Messancy"
+  },
+  {
+    "name": "MILMORT",
+    "name_clean": "Milmort",
+    "url": "https://nl.wikipedia.org/wiki/Station_Milmort"
+  },
+  {
+    "name": "MOENSBERG",
+    "name_clean": "Moensberg",
+    "url": "https://nl.wikipedia.org/wiki/Station_Moensberg"
+  },
+  {
+    "name": "MOUSCRON/MOESKROEN",
+    "name_clean": "Moeskroen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Moeskroen"
+  },
+  {
+    "name": "MOL",
+    "name_clean": "Mol",
+    "url": "https://nl.wikipedia.org/wiki/Station_Mol"
+  },
+  {
+    "name": "MOLLEM",
+    "name_clean": "Mollem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Mollem"
+  },
+  {
+    "name": "MOMALLE",
+    "name_clean": "Momalle",
+    "url": "https://nl.wikipedia.org/wiki/Station_Momalle"
+  },
+  {
+    "name": "MONS",
+    "name_clean": "Mons",
+    "url": "https://nl.wikipedia.org/wiki/Station_Mons"
+  },
+  {
+    "name": "MONT-SAINT-GUIBERT",
+    "name_clean": "Mont-Saint-Guibert",
+    "url": "https://nl.wikipedia.org/wiki/Station_Mont-Saint-Guibert"
+  },
+  {
+    "name": "MOORTSELE",
+    "name_clean": "Moortsele",
+    "url": "https://nl.wikipedia.org/wiki/Station_Moortsele"
+  },
+  {
+    "name": "MORLANWELZ",
+    "name_clean": "Morlanwelz",
+    "url": "https://nl.wikipedia.org/wiki/Station_Morlanwelz"
+  },
+  {
+    "name": "MORTSEL",
+    "name_clean": "Mortsel",
+    "url": "https://nl.wikipedia.org/wiki/Station_Mortsel"
+  },
+  {
+    "name": "MORTSEL-DEURNESTEENWEG",
+    "name_clean": "Mortsel-Deurnesteenweg",
+    "url": "https://nl.wikipedia.org/wiki/Station_Mortsel-Deurnesteenweg"
+  },
+  {
+    "name": "MORTSEL-LIERSESTEENWEG",
+    "name_clean": "Mortsel-Liersesteenweg",
+    "url": "https://nl.wikipedia.org/wiki/Station_Mortsel-Liersesteenweg"
+  },
+  {
+    "name": "MORTSEL-OUDE-GOD",
+    "name_clean": "Mortsel-Oude-God",
+    "url": "https://nl.wikipedia.org/wiki/Station_Mortsel-Oude-God"
+  },
+  {
+    "name": "MOUSTIER",
+    "name_clean": "Moustier",
+    "url": "https://nl.wikipedia.org/wiki/Station_Moustier"
+  },
+  {
+    "name": "MUIZEN",
+    "name_clean": "Muizen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Muizen"
+  },
+  {
+    "name": "MUNKZWALM",
+    "name_clean": "Munkzwalm",
+    "url": "https://nl.wikipedia.org/wiki/Station_Munkzwalm"
+  },
+  {
+    "name": "MERY",
+    "name_clean": "Méry",
+    "url": "https://nl.wikipedia.org/wiki/Station_Méry"
+  },
+  {
+    "name": "MEVERGNIES-ATTRE",
+    "name_clean": "Mévergnies-Attre",
+    "url": "https://nl.wikipedia.org/wiki/Station_Mévergnies-Attre"
+  },
+  {
+    "name": "NAMUR",
+    "name_clean": "Namur",
+    "url": "https://nl.wikipedia.org/wiki/Station_Namur"
+  },
+  {
+    "name": "NAMECHE",
+    "name_clean": "Namêche",
+    "url": "https://nl.wikipedia.org/wiki/Station_Namêche"
+  },
+  {
+    "name": "NANINNE",
+    "name_clean": "Naninne",
+    "url": "https://nl.wikipedia.org/wiki/Station_Naninne"
+  },
+  {
+    "name": "NATOYE",
+    "name_clean": "Natoye",
+    "url": "https://nl.wikipedia.org/wiki/Station_Natoye"
+  },
+  {
+    "name": "NEERPELT",
+    "name_clean": "Neerpelt",
+    "url": "https://nl.wikipedia.org/wiki/Station_Neerpelt"
+  },
+  {
+    "name": "NEERWINDEN",
+    "name_clean": "Neerwinden",
+    "url": "https://nl.wikipedia.org/wiki/Station_Neerwinden"
+  },
+  {
+    "name": "NESSONVAUX",
+    "name_clean": "Nessonvaux",
+    "url": "https://nl.wikipedia.org/wiki/Station_Nessonvaux"
+  },
+  {
+    "name": "NEUFCHATEAU",
+    "name_clean": "Neufchâteau",
+    "url": "https://nl.wikipedia.org/wiki/Station_Neufchâteau"
+  },
+  {
+    "name": "NEUFVILLES",
+    "name_clean": "Neufvilles",
+    "url": "https://nl.wikipedia.org/wiki/Station_Neufvilles"
+  },
+  {
+    "name": "NIEL",
+    "name_clean": "Niel",
+    "url": "https://nl.wikipedia.org/wiki/Station_Niel"
+  },
+  {
+    "name": "NIEUWKERKEN-WAAS",
+    "name_clean": "Nieuwkerken-Waas",
+    "url": "https://nl.wikipedia.org/wiki/Station_Nieuwkerken-Waas"
+  },
+  {
+    "name": "NIJLEN",
+    "name_clean": "Nijlen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Nijlen"
+  },
+  {
+    "name": "NIMY",
+    "name_clean": "Nimy",
+    "url": "https://nl.wikipedia.org/wiki/Station_Nimy"
+  },
+  {
+    "name": "NINOVE",
+    "name_clean": "Ninove",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ninove"
+  },
+  {
+    "name": "NIVELLES",
+    "name_clean": "Nivelles",
+    "url": "https://nl.wikipedia.org/wiki/Station_Nivelles"
+  },
+  {
+    "name": "NOORDERKEMPEN",
+    "name_clean": "Noorderkempen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Noorderkempen"
+  },
+  {
+    "name": "NOSSEGEM",
+    "name_clean": "Nossegem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Nossegem"
+  },
+  {
+    "name": "OBAIX-BUZET",
+    "name_clean": "Obaix-Buzet",
+    "url": "https://nl.wikipedia.org/wiki/Station_Obaix-Buzet"
+  },
+  {
+    "name": "OBOURG",
+    "name_clean": "Obourg",
+    "url": "https://nl.wikipedia.org/wiki/Station_Obourg"
+  },
+  {
+    "name": "OKEGEM",
+    "name_clean": "Okegem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Okegem"
+  },
+  {
+    "name": "OLEN",
+    "name_clean": "Olen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Olen"
+  },
+  {
+    "name": "OOSTENDE",
+    "name_clean": "Oostende",
+    "url": "https://nl.wikipedia.org/wiki/Station_Oostende"
+  },
+  {
+    "name": "OOSTKAMP",
+    "name_clean": "Oostkamp",
+    "url": "https://nl.wikipedia.org/wiki/Station_Oostkamp"
+  },
+  {
+    "name": "OPWIJK",
+    "name_clean": "Opwijk",
+    "url": "https://nl.wikipedia.org/wiki/Station_Opwijk"
+  },
+  {
+    "name": "OTTIGNIES",
+    "name_clean": "Ottignies",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ottignies"
+  },
+  {
+    "name": "OUD-HEVERLEE",
+    "name_clean": "Oud-Heverlee",
+    "url": "https://nl.wikipedia.org/wiki/Station_Oud-Heverlee"
+  },
+  {
+    "name": "OUDEGEM",
+    "name_clean": "Oudegem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Oudegem"
+  },
+  {
+    "name": "OUDENAARDE",
+    "name_clean": "Oudenaarde",
+    "url": "https://nl.wikipedia.org/wiki/Station_Oudenaarde"
+  },
+  {
+    "name": "OUGREE",
+    "name_clean": "Ougrée",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ougrée"
+  },
+  {
+    "name": "OVERPELT",
+    "name_clean": "Overpelt",
+    "url": "https://nl.wikipedia.org/wiki/Station_Overpelt"
+  },
+  {
+    "name": "PALISEUL",
+    "name_clean": "Paliseul",
+    "url": "https://nl.wikipedia.org/wiki/Station_Paliseul"
+  },
+  {
+    "name": "PAPIGNIES",
+    "name_clean": "Papignies",
+    "url": "https://nl.wikipedia.org/wiki/Station_Papignies"
+  },
+  {
+    "name": "PEPINSTER",
+    "name_clean": "Pepinster",
+    "url": "https://nl.wikipedia.org/wiki/Station_Pepinster"
+  },
+  {
+    "name": "PEPINSTER-CITE",
+    "name_clean": "Pepinster-Cité",
+    "url": "https://nl.wikipedia.org/wiki/Station_Pepinster-Cité"
+  },
+  {
+    "name": "PHILIPPEVILLE",
+    "name_clean": "Philippeville",
+    "url": "https://nl.wikipedia.org/wiki/Station_Philippeville"
+  },
+  {
+    "name": "PIETON",
+    "name_clean": "Piéton",
+    "url": "https://nl.wikipedia.org/wiki/Station_Piéton"
+  },
+  {
+    "name": "POIX-SAINT-HUBERT",
+    "name_clean": "Poix-Saint-Hubert",
+    "url": "https://nl.wikipedia.org/wiki/Station_Poix-Saint-Hubert"
+  },
+  {
+    "name": "PONT-DE-SERAING",
+    "name_clean": "Pont-de-Seraing",
+    "url": "https://nl.wikipedia.org/wiki/Station_Pont-de-Seraing"
+  },
+  {
+    "name": "PONT-A-CELLES",
+    "name_clean": "Pont-à-Celles",
+    "url": "https://nl.wikipedia.org/wiki/Station_Pont-à-Celles"
+  },
+  {
+    "name": "POPERINGE",
+    "name_clean": "Poperinge",
+    "url": "https://nl.wikipedia.org/wiki/Station_Poperinge"
+  },
+  {
+    "name": "POULSEUR",
+    "name_clean": "Poulseur",
+    "url": "https://nl.wikipedia.org/wiki/Station_Poulseur"
+  },
+  {
+    "name": "PROFONDSART",
+    "name_clean": "Profondsart",
+    "url": "https://nl.wikipedia.org/wiki/Station_Profondsart"
+  },
+  {
+    "name": "PRY",
+    "name_clean": "Pry",
+    "url": "https://nl.wikipedia.org/wiki/Station_Pry"
+  },
+  {
+    "name": "PUURS",
+    "name_clean": "Puurs",
+    "url": "https://nl.wikipedia.org/wiki/Station_Puurs"
+  },
+  {
+    "name": "PECROT",
+    "name_clean": "Pécrot",
+    "url": "https://nl.wikipedia.org/wiki/Station_Pécrot"
+  },
+  {
+    "name": "PERUWELZ",
+    "name_clean": "Péruwelz",
+    "url": "https://nl.wikipedia.org/wiki/Station_Péruwelz"
+  },
+  {
+    "name": "QUAREGNON",
+    "name_clean": "Quaregnon",
+    "url": "https://nl.wikipedia.org/wiki/Station_Quaregnon"
+  },
+  {
+    "name": "QUIEVRAIN",
+    "name_clean": "Quiévrain",
+    "url": "https://nl.wikipedia.org/wiki/Station_Quiévrain"
+  },
+  {
+    "name": "QUEVY",
+    "name_clean": "Quévy",
+    "url": "https://nl.wikipedia.org/wiki/Station_Quévy"
+  },
+  {
+    "name": "REBAIX",
+    "name_clean": "Rebaix",
+    "url": "https://nl.wikipedia.org/wiki/Station_Rebaix"
+  },
+  {
+    "name": "REMICOURT",
+    "name_clean": "Remicourt",
+    "url": "https://nl.wikipedia.org/wiki/Station_Remicourt"
+  },
+  {
+    "name": "RHISNES",
+    "name_clean": "Rhisnes",
+    "url": "https://nl.wikipedia.org/wiki/Station_Rhisnes"
+  },
+  {
+    "name": "RIVAGE",
+    "name_clean": "Rivage",
+    "url": "https://nl.wikipedia.org/wiki/Station_Rivage"
+  },
+  {
+    "name": "RIXENSART",
+    "name_clean": "Rixensart",
+    "url": "https://nl.wikipedia.org/wiki/Station_Rixensart"
+  },
+  {
+    "name": "ROESELARE",
+    "name_clean": "Roeselare",
+    "url": "https://nl.wikipedia.org/wiki/Station_Roeselare"
+  },
+  {
+    "name": "RONET",
+    "name_clean": "Ronet",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ronet"
+  },
+  {
+    "name": "RONSE/RENAIX",
+    "name_clean": "Ronse",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ronse"
+  },
+  {
+    "name": "ROUX",
+    "name_clean": "Roux",
+    "url": "https://nl.wikipedia.org/wiki/Station_Roux"
+  },
+  {
+    "name": "RUISBROEK",
+    "name_clean": "Ruisbroek",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ruisbroek"
+  },
+  {
+    "name": "RUISBR.-SAUVEGARDE",
+    "name_clean": "Ruisbroek-Sauvegarde",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ruisbroek-Sauvegarde"
+  },
+  {
+    "name": "ST-DENIS-BOVESSE",
+    "name_clean": "Saint-Denis-Bovesse",
+    "url": "https://nl.wikipedia.org/wiki/Station_Saint-Denis-Bovesse"
+  },
+  {
+    "name": "ST-GHISLAIN",
+    "name_clean": "Saint-Ghislain",
+    "url": "https://nl.wikipedia.org/wiki/Station_Saint-Ghislain"
+  },
+  {
+    "name": "SART-BERNARD",
+    "name_clean": "Sart-Bernard",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sart-Bernard"
+  },
+  {
+    "name": "SCHAARBEEK/SCHAERBEEK",
+    "name_clean": "Schaarbeek",
+    "url": "https://nl.wikipedia.org/wiki/Station_Schaarbeek"
+  },
+  {
+    "name": "SCHELDEWINDEKE",
+    "name_clean": "Scheldewindeke",
+    "url": "https://nl.wikipedia.org/wiki/Station_Scheldewindeke"
+  },
+  {
+    "name": "SCHELLE",
+    "name_clean": "Schelle",
+    "url": "https://nl.wikipedia.org/wiki/Station_Schelle"
+  },
+  {
+    "name": "SCHELLEBELLE",
+    "name_clean": "Schellebelle",
+    "url": "https://nl.wikipedia.org/wiki/Station_Schellebelle"
+  },
+  {
+    "name": "SCHENDELBEKE",
+    "name_clean": "Schendelbeke",
+    "url": "https://nl.wikipedia.org/wiki/Station_Schendelbeke"
+  },
+  {
+    "name": "SCHOONAARDE",
+    "name_clean": "Schoonaarde",
+    "url": "https://nl.wikipedia.org/wiki/Station_Schoonaarde"
+  },
+  {
+    "name": "SCHULEN",
+    "name_clean": "Schulen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Schulen"
+  },
+  {
+    "name": "SCLAIGNEAUX",
+    "name_clean": "Sclaigneaux",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sclaigneaux"
+  },
+  {
+    "name": "SCLESSIN",
+    "name_clean": "Sclessin",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sclessin"
+  },
+  {
+    "name": "SERAING",
+    "name_clean": "Seraing",
+    "url": "https://nl.wikipedia.org/wiki/Station_Seraing"
+  },
+  {
+    "name": "SERSKAMP",
+    "name_clean": "Serskamp",
+    "url": "https://nl.wikipedia.org/wiki/Station_Serskamp"
+  },
+  {
+    "name": "SILLY",
+    "name_clean": "Silly",
+    "url": "https://nl.wikipedia.org/wiki/Station_Silly"
+  },
+  {
+    "name": "SIMONIS",
+    "name_clean": "Simonis",
+    "url": "https://nl.wikipedia.org/wiki/Station_Simonis"
+  },
+  {
+    "name": "SINAAI",
+    "name_clean": "Sinaai",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sinaai"
+  },
+  {
+    "name": "BERCHEM-ST-AG.-BERCHEM",
+    "name_clean": "Sint-Agatha-Berchem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sint-Agatha-Berchem"
+  },
+  {
+    "name": "ST-DENIJS-BOEKEL",
+    "name_clean": "Sint-Denijs-Boekel",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sint-Denijs-Boekel"
+  },
+  {
+    "name": "ST-GEN-RODE/RHODE-ST-GEN",
+    "name_clean": "Sint-Genesius-Rode",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sint-Genesius-Rode"
+  },
+  {
+    "name": "ST-GILLIS",
+    "name_clean": "Sint-Gillis",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sint-Gillis"
+  },
+  {
+    "name": "ST-JOB",
+    "name_clean": "Sint-Job",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sint-Job"
+  },
+  {
+    "name": "ST-JORIS-WEERT",
+    "name_clean": "Sint-Joris-Weert",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sint-Joris-Weert"
+  },
+  {
+    "name": "ST-KATELIJNE-WAVER",
+    "name_clean": "Sint-Katelijne-Waver",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sint-Katelijne-Waver"
+  },
+  {
+    "name": "ST-MARIABURG",
+    "name_clean": "Sint-Mariaburg",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sint-Mariaburg"
+  },
+  {
+    "name": "ST-MARTENS-BODEGEM",
+    "name_clean": "Sint-Martens-Bodegem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sint-Martens-Bodegem"
+  },
+  {
+    "name": "ST-NIKLAAS",
+    "name_clean": "Sint-Niklaas",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sint-Niklaas"
+  },
+  {
+    "name": "ST-TRUIDEN",
+    "name_clean": "Sint-Truiden",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sint-Truiden"
+  },
+  {
+    "name": "SLEIDINGE",
+    "name_clean": "Sleidinge",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sleidinge"
+  },
+  {
+    "name": "SOIGNIES",
+    "name_clean": "Soignies",
+    "url": "https://nl.wikipedia.org/wiki/Station_Soignies"
+  },
+  {
+    "name": "SOLRE-SUR-SAMBRE",
+    "name_clean": "Solre-sur-Sambre",
+    "url": "https://nl.wikipedia.org/wiki/Station_Solre-sur-Sambre"
+  },
+  {
+    "name": "SPA",
+    "name_clean": "Spa",
+    "url": "https://nl.wikipedia.org/wiki/Station_Spa"
+  },
+  {
+    "name": "SPA-GERONSTERE",
+    "name_clean": "Spa-Géronstère",
+    "url": "https://nl.wikipedia.org/wiki/Station_Spa-Géronstère"
+  },
+  {
+    "name": "STATTE",
+    "name_clean": "Statte",
+    "url": "https://nl.wikipedia.org/wiki/Station_Statte"
+  },
+  {
+    "name": "STOCKEM",
+    "name_clean": "Stockem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Stockem"
+  },
+  {
+    "name": "SY",
+    "name_clean": "Sy",
+    "url": "https://nl.wikipedia.org/wiki/Station_Sy"
+  },
+  {
+    "name": "TAMINES",
+    "name_clean": "Tamines",
+    "url": "https://nl.wikipedia.org/wiki/Station_Tamines"
+  },
+  {
+    "name": "TEMSE",
+    "name_clean": "Temse",
+    "url": "https://nl.wikipedia.org/wiki/Station_Temse"
+  },
+  {
+    "name": "TERHAGEN",
+    "name_clean": "Terhagen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Terhagen"
+  },
+  {
+    "name": "TERNAT",
+    "name_clean": "Ternat",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ternat"
+  },
+  {
+    "name": "TESTELT",
+    "name_clean": "Testelt",
+    "url": "https://nl.wikipedia.org/wiki/Station_Testelt"
+  },
+  {
+    "name": "THEUX",
+    "name_clean": "Theux",
+    "url": "https://nl.wikipedia.org/wiki/Station_Theux"
+  },
+  {
+    "name": "THIEU",
+    "name_clean": "Thieu",
+    "url": "https://nl.wikipedia.org/wiki/Station_Thieu"
+  },
+  {
+    "name": "THUIN",
+    "name_clean": "Thuin",
+    "url": "https://nl.wikipedia.org/wiki/Station_Thuin"
+  },
+  {
+    "name": "THULIN",
+    "name_clean": "Thulin",
+    "url": "https://nl.wikipedia.org/wiki/Station_Thulin"
+  },
+  {
+    "name": "TIELEN",
+    "name_clean": "Tielen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Tielen"
+  },
+  {
+    "name": "TIELT",
+    "name_clean": "Tielt",
+    "url": "https://nl.wikipedia.org/wiki/Station_Tielt"
+  },
+  {
+    "name": "TIENEN",
+    "name_clean": "Tienen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Tienen"
+  },
+  {
+    "name": "TILFF",
+    "name_clean": "Tilff",
+    "url": "https://nl.wikipedia.org/wiki/Station_Tilff"
+  },
+  {
+    "name": "TILLY",
+    "name_clean": "Tilly",
+    "url": "https://nl.wikipedia.org/wiki/Station_Tilly"
+  },
+  {
+    "name": "TOLLEMBEEK",
+    "name_clean": "Tollembeek",
+    "url": "https://nl.wikipedia.org/wiki/Station_Tollembeek"
+  },
+  {
+    "name": "TONGEREN",
+    "name_clean": "Tongeren",
+    "url": "https://nl.wikipedia.org/wiki/Station_Tongeren"
+  },
+  {
+    "name": "TORHOUT",
+    "name_clean": "Torhout",
+    "url": "https://nl.wikipedia.org/wiki/Station_Torhout"
+  },
+  {
+    "name": "TOUR ET TAXIS/THURN EN TAXIS",
+    "name_clean": "Thurn en Taxis",
+    "url": "https://nl.wikipedia.org/wiki/Station_Thurn_en_Taxis"
+  },
+  {
+    "name": "TOURNAI",
+    "name_clean": "Tournai",
+    "url": "https://nl.wikipedia.org/wiki/Station_Tournai"
+  },
+  {
+    "name": "TROIS-PONTS",
+    "name_clean": "Trois-Ponts",
+    "url": "https://nl.wikipedia.org/wiki/Station_Trois-Ponts"
+  },
+  {
+    "name": "TROOZ",
+    "name_clean": "Trooz",
+    "url": "https://nl.wikipedia.org/wiki/Station_Trooz"
+  },
+  {
+    "name": "TUBIZE",
+    "name_clean": "Tubize",
+    "url": "https://nl.wikipedia.org/wiki/Station_Tubize"
+  },
+  {
+    "name": "TURNHOUT",
+    "name_clean": "Turnhout",
+    "url": "https://nl.wikipedia.org/wiki/Station_Turnhout"
+  },
+  {
+    "name": "UCCLE/UKKEL-CALEVOET",
+    "name_clean": "Ukkel-Kalevoet",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ukkel-Kalevoet"
+  },
+  {
+    "name": "UCCLE/UKKEL-STALLE",
+    "name_clean": "Ukkel-Stalle",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ukkel-Stalle"
+  },
+  {
+    "name": "VELTEM",
+    "name_clean": "Veltem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Veltem"
+  },
+  {
+    "name": "VERTRIJK",
+    "name_clean": "Vertrijk",
+    "url": "https://nl.wikipedia.org/wiki/Station_Vertrijk"
+  },
+  {
+    "name": "VERVIERS-CENTRAL",
+    "name_clean": "Verviers-Central",
+    "url": "https://nl.wikipedia.org/wiki/Station_Verviers-Central"
+  },
+  {
+    "name": "VERVIERS-PALAIS",
+    "name_clean": "Verviers-Palais",
+    "url": "https://nl.wikipedia.org/wiki/Station_Verviers-Palais"
+  },
+  {
+    "name": "VEURNE",
+    "name_clean": "Veurne",
+    "url": "https://nl.wikipedia.org/wiki/Station_Veurne"
+  },
+  {
+    "name": "VIANE-MOERBEKE",
+    "name_clean": "Viane-Moerbeke",
+    "url": "https://nl.wikipedia.org/wiki/Station_Viane-Moerbeke"
+  },
+  {
+    "name": "VICHTE",
+    "name_clean": "Vichte",
+    "url": "https://nl.wikipedia.org/wiki/Station_Vichte"
+  },
+  {
+    "name": "VIELSALM",
+    "name_clean": "Vielsalm",
+    "url": "https://nl.wikipedia.org/wiki/Station_Vielsalm"
+  },
+  {
+    "name": "VIJFHUIZEN",
+    "name_clean": "Vijfhuizen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Vijfhuizen"
+  },
+  {
+    "name": "VILLE-POMMEROEUL",
+    "name_clean": "Ville-Pommeroeul",
+    "url": "https://nl.wikipedia.org/wiki/Station_Ville-Pommeroeul"
+  },
+  {
+    "name": "VILLERS-LA-VILLE",
+    "name_clean": "Villers-la-Ville",
+    "url": "https://nl.wikipedia.org/wiki/Station_Villers-la-Ville"
+  },
+  {
+    "name": "VILVOORDE",
+    "name_clean": "Vilvoorde",
+    "url": "https://nl.wikipedia.org/wiki/Station_Vilvoorde"
+  },
+  {
+    "name": "VIRTON",
+    "name_clean": "Virton",
+    "url": "https://nl.wikipedia.org/wiki/Station_Virton"
+  },
+  {
+    "name": "VISE",
+    "name_clean": "Visé",
+    "url": "https://nl.wikipedia.org/wiki/Station_Visé"
+  },
+  {
+    "name": "VIVILLE",
+    "name_clean": "Viville",
+    "url": "https://nl.wikipedia.org/wiki/Station_Viville"
+  },
+  {
+    "name": "VOROUX",
+    "name_clean": "Voroux",
+    "url": "https://nl.wikipedia.org/wiki/Station_Voroux"
+  },
+  {
+    "name": "FOREST-EST/VORST-OOST",
+    "name_clean": "Vorst-Oost",
+    "url": "https://nl.wikipedia.org/wiki/Station_Vorst-Oost"
+  },
+  {
+    "name": "FOREST-MIDI/VORST-ZUID",
+    "name_clean": "Vorst-Zuid",
+    "url": "https://nl.wikipedia.org/wiki/Station_Vorst-Zuid"
+  },
+  {
+    "name": "WAARSCHOOT",
+    "name_clean": "Waarschoot",
+    "url": "https://nl.wikipedia.org/wiki/Station_Waarschoot"
+  },
+  {
+    "name": "WALCOURT",
+    "name_clean": "Walcourt",
+    "url": "https://nl.wikipedia.org/wiki/Station_Walcourt"
+  },
+  {
+    "name": "WAREGEM",
+    "name_clean": "Waregem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Waregem"
+  },
+  {
+    "name": "WAREMME",
+    "name_clean": "Waremme",
+    "url": "https://nl.wikipedia.org/wiki/Station_Waremme"
+  },
+  {
+    "name": "WATERLOO",
+    "name_clean": "Waterloo",
+    "url": "https://nl.wikipedia.org/wiki/Station_Waterloo"
+  },
+  {
+    "name": "WATERMAEL/WATERMAAL",
+    "name_clean": "Watermaal",
+    "url": "https://nl.wikipedia.org/wiki/Station_Watermaal"
+  },
+  {
+    "name": "WAVRE",
+    "name_clean": "Wavre",
+    "url": "https://nl.wikipedia.org/wiki/Station_Wavre"
+  },
+  {
+    "name": "WEERDE",
+    "name_clean": "Weerde",
+    "url": "https://nl.wikipedia.org/wiki/Station_Weerde"
+  },
+  {
+    "name": "WELKENRAEDT",
+    "name_clean": "Welkenraedt",
+    "url": "https://nl.wikipedia.org/wiki/Station_Welkenraedt"
+  },
+  {
+    "name": "WELLE",
+    "name_clean": "Welle",
+    "url": "https://nl.wikipedia.org/wiki/Station_Welle"
+  },
+  {
+    "name": "WERVIK",
+    "name_clean": "Wervik",
+    "url": "https://nl.wikipedia.org/wiki/Station_Wervik"
+  },
+  {
+    "name": "WESPELAAR-TILDONK",
+    "name_clean": "Wespelaar-Tildonk",
+    "url": "https://nl.wikipedia.org/wiki/Station_Wespelaar-Tildonk"
+  },
+  {
+    "name": "WETTEREN",
+    "name_clean": "Wetteren",
+    "url": "https://nl.wikipedia.org/wiki/Station_Wetteren"
+  },
+  {
+    "name": "WEVELGEM",
+    "name_clean": "Wevelgem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Wevelgem"
+  },
+  {
+    "name": "WEZEMAAL",
+    "name_clean": "Wezemaal",
+    "url": "https://nl.wikipedia.org/wiki/Station_Wezemaal"
+  },
+  {
+    "name": "WICHELEN",
+    "name_clean": "Wichelen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Wichelen"
+  },
+  {
+    "name": "WIJGMAAL",
+    "name_clean": "Wijgmaal",
+    "url": "https://nl.wikipedia.org/wiki/Station_Wijgmaal"
+  },
+  {
+    "name": "WILDERT",
+    "name_clean": "Wildert",
+    "url": "https://nl.wikipedia.org/wiki/Station_Wildert"
+  },
+  {
+    "name": "WILLEBROEK",
+    "name_clean": "Willebroek",
+    "url": "https://nl.wikipedia.org/wiki/Station_Willebroek"
+  },
+  {
+    "name": "WOLFSTEE",
+    "name_clean": "Wolfstee",
+    "url": "https://nl.wikipedia.org/wiki/Station_Wolfstee"
+  },
+  {
+    "name": "WONDELGEM",
+    "name_clean": "Wondelgem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Wondelgem"
+  },
+  {
+    "name": "YVES-GOMEZEE",
+    "name_clean": "Yves-Gomezée",
+    "url": "https://nl.wikipedia.org/wiki/Station_Yves-Gomezée"
+  },
+  {
+    "name": "YVOIR",
+    "name_clean": "Yvoir",
+    "url": "https://nl.wikipedia.org/wiki/Station_Yvoir"
+  },
+  {
+    "name": "ZANDBERGEN",
+    "name_clean": "Zandbergen",
+    "url": "https://nl.wikipedia.org/wiki/Station_Zandbergen"
+  },
+  {
+    "name": "ZAVENTEM",
+    "name_clean": "Zaventem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Zaventem"
+  },
+  {
+    "name": "ZEDELGEM",
+    "name_clean": "Zedelgem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Zedelgem"
+  },
+  {
+    "name": "ZEEBRUGGE-DORP",
+    "name_clean": "Zeebrugge-Dorp",
+    "url": "https://nl.wikipedia.org/wiki/Station_Zeebrugge-Dorp"
+  },
+  {
+    "name": "ZEEBRUGGE-STRAND",
+    "name_clean": "Zeebrugge-Strand",
+    "url": "https://nl.wikipedia.org/wiki/Station_Zeebrugge-Strand"
+  },
+  {
+    "name": "ZELE",
+    "name_clean": "Zele",
+    "url": "https://nl.wikipedia.org/wiki/Station_Zele"
+  },
+  {
+    "name": "ZELLIK",
+    "name_clean": "Zellik",
+    "url": "https://nl.wikipedia.org/wiki/Station_Zellik"
+  },
+  {
+    "name": "ZICHEM",
+    "name_clean": "Zichem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Zichem"
+  },
+  {
+    "name": "ZINGEM",
+    "name_clean": "Zingem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Zingem"
+  },
+  {
+    "name": "ZOLDER",
+    "name_clean": "Zolder",
+    "url": "https://nl.wikipedia.org/wiki/Station_Zolder"
+  },
+  {
+    "name": "ZONHOVEN",
+    "name_clean": "Zonhoven",
+    "url": "https://nl.wikipedia.org/wiki/Station_Zonhoven"
+  },
+  {
+    "name": "ZOTTEGEM",
+    "name_clean": "Zottegem",
+    "url": "https://nl.wikipedia.org/wiki/Station_Zottegem"
+  },
+  {
+    "name": "ZWIJNDRECHT",
+    "name_clean": "Zwijndrecht",
+    "url": "https://nl.wikipedia.org/wiki/Station_Zwijndrecht"
+  }
+]
