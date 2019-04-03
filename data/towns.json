@@ -1,0 +1,5231 @@
+[
+  {
+    "nis": "11001",
+    "name": {
+      "n": "Aartselaar",
+      "f": "Aartselaar"
+    },
+    "use": "n",
+    "twitter": "GemAartselaar"
+  },
+  {
+    "nis": "11002",
+    "name": {
+      "n": "Antwerpen",
+      "f": "Anvers"
+    },
+    "use": "n",
+    "twitter": "stad_antwerpen"
+  },
+  {
+    "nis": "11004",
+    "name": {
+      "n": "Boechout",
+      "f": "Boechout"
+    },
+    "use": "n",
+    "twitter": "gboechout"
+  },
+  {
+    "nis": "11005",
+    "name": {
+      "n": "Boom",
+      "f": "Boom"
+    },
+    "use": "n",
+    "twitter": "GemeenteBoom"
+  },
+  {
+    "nis": "11007",
+    "name": {
+      "n": "Borsbeek",
+      "f": "Borsbeek"
+    },
+    "use": "n",
+    "twitter": "gemborsbeek"
+  },
+  {
+    "nis": "11008",
+    "name": {
+      "n": "Brasschaat",
+      "f": "Brasschaat"
+    },
+    "use": "n",
+    "twitter": "2930Brasschaat"
+  },
+  {
+    "nis": "11009",
+    "name": {
+      "n": "Brecht",
+      "f": "Brecht"
+    },
+    "use": "n",
+    "twitter": "GemeenteBrecht"
+  },
+  {
+    "nis": "11013",
+    "name": {
+      "n": "Edegem",
+      "f": "Edegem"
+    },
+    "use": "n",
+    "twitter": "GemeenteEdegem"
+  },
+  {
+    "nis": "11016",
+    "name": {
+      "n": "Essen",
+      "f": "Essen"
+    },
+    "use": "n",
+    "twitter": "gemeenteessen"
+  },
+  {
+    "nis": "11018",
+    "name": {
+      "n": "Hemiksem",
+      "f": "Hemiksem"
+    },
+    "use": "n",
+    "twitter": "GemeenteHXM"
+  },
+  {
+    "nis": "11021",
+    "name": {
+      "n": "Hove",
+      "f": "Hove"
+    },
+    "use": "n",
+    "twitter": "gemeente_Hove"
+  },
+  {
+    "nis": "11022",
+    "name": {
+      "n": "Kalmthout",
+      "f": "Kalmthout"
+    },
+    "use": "n",
+    "twitter": "gemkalmthout"
+  },
+  {
+    "nis": "11023",
+    "name": {
+      "n": "Kapellen",
+      "f": "Kapellen"
+    },
+    "use": "n",
+    "twitter": "2950kapellen"
+  },
+  {
+    "nis": "11024",
+    "name": {
+      "n": "Kontich",
+      "f": "Kontich"
+    },
+    "use": "n",
+    "twitter": "GemeenteKontich"
+  },
+  {
+    "nis": "11025",
+    "name": {
+      "n": "Lint",
+      "f": "Lint"
+    },
+    "use": "n",
+    "twitter": "gemeentelint"
+  },
+  {
+    "nis": "11057",
+    "name": {
+      "n": "Malle",
+      "f": "Malle"
+    },
+    "use": "n",
+    "twitter": "Gemeente_Malle"
+  },
+  {
+    "nis": "11029",
+    "name": {
+      "n": "Mortsel",
+      "f": "Mortsel"
+    },
+    "use": "n",
+    "twitter": "stadmortsel"
+  },
+  {
+    "nis": "11030",
+    "name": {
+      "n": "Niel",
+      "f": "Niel"
+    },
+    "use": "n",
+    "twitter": "gemeenteniel"
+  },
+  {
+    "nis": "11035",
+    "name": {
+      "n": "Ranst",
+      "f": "Ranst"
+    },
+    "use": "n",
+    "twitter": "gemeenteranst"
+  },
+  {
+    "nis": "11037",
+    "name": {
+      "n": "Rumst",
+      "f": "Rumst"
+    },
+    "use": "n",
+    "twitter": "Gemeente_Rumst"
+  },
+  {
+    "nis": "11038",
+    "name": {
+      "n": "Schelle",
+      "f": "Schelle"
+    },
+    "use": "n",
+    "twitter": "2627schelle"
+  },
+  {
+    "nis": "11039",
+    "name": {
+      "n": "Schilde",
+      "f": "Schilde"
+    },
+    "use": "n",
+    "twitter": "2970schilde"
+  },
+  {
+    "nis": "11040",
+    "name": {
+      "n": "Schoten",
+      "f": "Schoten"
+    },
+    "use": "n",
+    "twitter": "gemSchoten"
+  },
+  {
+    "nis": "11044",
+    "name": {
+      "n": "Stabroek",
+      "f": "Stabroek"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "11050",
+    "name": {
+      "n": "Wijnegem",
+      "f": "Wijnegem"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "11052",
+    "name": {
+      "n": "Wommelgem",
+      "f": "Wommelgem"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "11053",
+    "name": {
+      "n": "Wuustwezel",
+      "f": "Wuustwezel"
+    },
+    "use": "n",
+    "twitter": "gemwuustwezel"
+  },
+  {
+    "nis": "11054",
+    "name": {
+      "n": "Zandhoven",
+      "f": "Zandhoven"
+    },
+    "use": "n",
+    "twitter": "GEMZandhoven"
+  },
+  {
+    "nis": "11055",
+    "name": {
+      "n": "Zoersel",
+      "f": "Zoersel"
+    },
+    "use": "n",
+    "twitter": "Zoersel2980"
+  },
+  {
+    "nis": "11056",
+    "name": {
+      "n": "Zwijndrecht",
+      "f": "Zwijndrecht"
+    },
+    "use": "n",
+    "twitter": "zwijndrecht2070"
+  },
+  {
+    "nis": "12002",
+    "name": {
+      "n": "Berlaar",
+      "f": "Berlaar"
+    },
+    "use": "n",
+    "twitter": "gemeenteberlaar"
+  },
+  {
+    "nis": "12005",
+    "name": {
+      "n": "Bonheiden",
+      "f": "Bonheiden"
+    },
+    "use": "n",
+    "twitter": "Bonheidengem"
+  },
+  {
+    "nis": "12007",
+    "name": {
+      "n": "Bornem",
+      "f": "Bornem"
+    },
+    "use": "n",
+    "twitter": "gemeentebornem"
+  },
+  {
+    "nis": "12009",
+    "name": {
+      "n": "Duffel",
+      "f": "Duffel"
+    },
+    "use": "n",
+    "twitter": "Duffel2570"
+  },
+  {
+    "nis": "12014",
+    "name": {
+      "n": "Heist-op-den-Berg",
+      "f": "Heist-op-den-Berg"
+    },
+    "use": "n",
+    "twitter": "heistodberg"
+  },
+  {
+    "nis": "12021",
+    "name": {
+      "n": "Lier",
+      "f": "Lierre"
+    },
+    "use": "n",
+    "twitter": "TwitteLIER"
+  },
+  {
+    "nis": "12025",
+    "name": {
+      "n": "Mechelen",
+      "f": "Malines"
+    },
+    "use": "n",
+    "twitter": "StadMechelen"
+  },
+  {
+    "nis": "12026",
+    "name": {
+      "n": "Nijlen",
+      "f": "Nijlen"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "12029",
+    "name": {
+      "n": "Putte",
+      "f": "Putte"
+    },
+    "use": "n",
+    "twitter": "GemeentePutte"
+  },
+  {
+    "nis": "12041",
+    "name": {
+      "n": "Puurs-Sint-Amands",
+      "f": "Puurs-Sint-Amands"
+    },
+    "use": "n",
+    "twitter": "Sint_Amands"
+  },
+  {
+    "nis": "12035",
+    "name": {
+      "n": "Sint-Katelijne-Waver",
+      "f": "Sint-Katelijne-Waver"
+    },
+    "use": "n",
+    "twitter": "SintKatWaver"
+  },
+  {
+    "nis": "12040",
+    "name": {
+      "n": "Willebroek",
+      "f": "Willebroek"
+    },
+    "use": "n",
+    "twitter": "willebroek_be"
+  },
+  {
+    "nis": "13001",
+    "name": {
+      "n": "Arendonk",
+      "f": "Arendonk"
+    },
+    "use": "n",
+    "twitter": "2370Arendonk"
+  },
+  {
+    "nis": "13002",
+    "name": {
+      "n": "Baarle-Hertog",
+      "f": "Baerle-Duc"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "13003",
+    "name": {
+      "n": "Balen",
+      "f": "Balen"
+    },
+    "use": "n",
+    "twitter": "gemeentebalen"
+  },
+  {
+    "nis": "13004",
+    "name": {
+      "n": "Beerse",
+      "f": "Beerse"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "13006",
+    "name": {
+      "n": "Dessel",
+      "f": "Dessel"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "13008",
+    "name": {
+      "n": "Geel",
+      "f": "Geel"
+    },
+    "use": "n",
+    "twitter": "GeelStad"
+  },
+  {
+    "nis": "13010",
+    "name": {
+      "n": "Grobbendonk",
+      "f": "Grobbendonk"
+    },
+    "use": "n",
+    "twitter": "grobbendonk2280"
+  },
+  {
+    "nis": "13011",
+    "name": {
+      "n": "Herentals",
+      "f": "Herentals"
+    },
+    "use": "n",
+    "twitter": "stadherentals"
+  },
+  {
+    "nis": "13012",
+    "name": {
+      "n": "Herenthout",
+      "f": "Herenthout"
+    },
+    "use": "n",
+    "twitter": "Gem_Herenthout"
+  },
+  {
+    "nis": "13013",
+    "name": {
+      "n": "Herselt",
+      "f": "Herselt"
+    },
+    "use": "n",
+    "twitter": "Herselt"
+  },
+  {
+    "nis": "13014",
+    "name": {
+      "n": "Hoogstraten",
+      "f": "Hoogstraten"
+    },
+    "use": "n",
+    "twitter": "StadHoogstraten"
+  },
+  {
+    "nis": "13016",
+    "name": {
+      "n": "Hulshout",
+      "f": "Hulshout"
+    },
+    "use": "n",
+    "twitter": "Gem_Hulshout"
+  },
+  {
+    "nis": "13017",
+    "name": {
+      "n": "Kasterlee",
+      "f": "Kasterlee"
+    },
+    "use": "n",
+    "twitter": "infoKasterlee"
+  },
+  {
+    "nis": "13053",
+    "name": {
+      "n": "Laakdal",
+      "f": "Laakdal"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "13019",
+    "name": {
+      "n": "Lille",
+      "f": "Lille"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "13021",
+    "name": {
+      "n": "Meerhout",
+      "f": "Meerhout"
+    },
+    "use": "n",
+    "twitter": "NieuwsMeerhout"
+  },
+  {
+    "nis": "13023",
+    "name": {
+      "n": "Merksplas",
+      "f": "Merksplas"
+    },
+    "use": "n",
+    "twitter": "gemmerksplas"
+  },
+  {
+    "nis": "13025",
+    "name": {
+      "n": "Mol",
+      "f": "Mol"
+    },
+    "use": "n",
+    "twitter": "GemeenteMol"
+  },
+  {
+    "nis": "13029",
+    "name": {
+      "n": "Olen",
+      "f": "Olen"
+    },
+    "use": "n",
+    "twitter": "gemeenteOlen"
+  },
+  {
+    "nis": "13031",
+    "name": {
+      "n": "Oud-Turnhout",
+      "f": "Oud-Turnhout"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "13035",
+    "name": {
+      "n": "Ravels",
+      "f": "Ravels"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "13036",
+    "name": {
+      "n": "Retie",
+      "f": "Retie"
+    },
+    "use": "n",
+    "twitter": "GemeenteRetie"
+  },
+  {
+    "nis": "13037",
+    "name": {
+      "n": "Rijkevorsel",
+      "f": "Rijkevorsel"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "13040",
+    "name": {
+      "n": "Turnhout",
+      "f": "Turnhout"
+    },
+    "use": "n",
+    "twitter": "Turnhout"
+  },
+  {
+    "nis": "13044",
+    "name": {
+      "n": "Vorselaar",
+      "f": "Vorselaar"
+    },
+    "use": "n",
+    "twitter": "infovorselaar"
+  },
+  {
+    "nis": "13046",
+    "name": {
+      "n": "Vosselaar",
+      "f": "Vosselaar"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "13049",
+    "name": {
+      "n": "Westerlo",
+      "f": "Westerlo"
+    },
+    "use": "n",
+    "twitter": "WesterloParelt"
+  },
+  {
+    "nis": "71002",
+    "name": {
+      "n": "As",
+      "f": "As"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "71004",
+    "name": {
+      "n": "Beringen",
+      "f": "Beringen"
+    },
+    "use": "n",
+    "twitter": "stadBeringen"
+  },
+  {
+    "nis": "71011",
+    "name": {
+      "n": "Diepenbeek",
+      "f": "Diepenbeek"
+    },
+    "use": "n",
+    "twitter": "GDiepenbeek"
+  },
+  {
+    "nis": "71016",
+    "name": {
+      "n": "Genk",
+      "f": "Genk"
+    },
+    "use": "n",
+    "twitter": "stadgenk"
+  },
+  {
+    "nis": "71017",
+    "name": {
+      "n": "Gingelom",
+      "f": "Gingelom"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "71020",
+    "name": {
+      "n": "Halen",
+      "f": "Halen"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "71069",
+    "name": {
+      "n": "Ham",
+      "f": "Ham"
+    },
+    "use": "n",
+    "twitter": "GemeenteHam"
+  },
+  {
+    "nis": "71022",
+    "name": {
+      "n": "Hasselt",
+      "f": "Hasselt"
+    },
+    "use": "n",
+    "twitter": "stadhasselt"
+  },
+  {
+    "nis": "71024",
+    "name": {
+      "n": "Herk-de-Stad",
+      "f": "Herck-la-Ville"
+    },
+    "use": "n",
+    "twitter": "stadherkdestad"
+  },
+  {
+    "nis": "71070",
+    "name": {
+      "n": "Heusden-Zolder",
+      "f": "Heusden-Zolder"
+    },
+    "use": "n",
+    "twitter": "vanhtotz"
+  },
+  {
+    "nis": "71034",
+    "name": {
+      "n": "Leopoldsburg",
+      "f": "Bourg-Léopold"
+    },
+    "use": "n",
+    "twitter": "GemLeopoldsburg"
+  },
+  {
+    "nis": "71037",
+    "name": {
+      "n": "Lummen",
+      "f": "Lummen"
+    },
+    "use": "n",
+    "twitter": "GemeenteLummen"
+  },
+  {
+    "nis": "71045",
+    "name": {
+      "n": "Nieuwerkerken",
+      "f": "Nieuwerkerken"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "71053",
+    "name": {
+      "n": "Sint-Truiden",
+      "f": "Saint-Trond"
+    },
+    "use": "n",
+    "twitter": "stadsinttruiden"
+  },
+  {
+    "nis": "71057",
+    "name": {
+      "n": "Tessenderlo",
+      "f": "Tessenderlo"
+    },
+    "use": "n",
+    "twitter": "GemTessenderlo"
+  },
+  {
+    "nis": "71066",
+    "name": {
+      "n": "Zonhoven",
+      "f": "Zonhoven"
+    },
+    "use": "n",
+    "twitter": "Gem_Zonhoven"
+  },
+  {
+    "nis": "71067",
+    "name": {
+      "n": "Zutendaal",
+      "f": "Zutendaal"
+    },
+    "use": "n",
+    "twitter": "GemZutendaal"
+  },
+  {
+    "nis": "72003",
+    "name": {
+      "n": "Bocholt",
+      "f": "Bocholt"
+    },
+    "use": "n",
+    "twitter": "InfoBocholt"
+  },
+  {
+    "nis": "72004",
+    "name": {
+      "n": "Bree",
+      "f": "Bree"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "72041",
+    "name": {
+      "n": "Dilsen-Stokkem",
+      "f": "Dilsen-Stokkem"
+    },
+    "use": "n",
+    "twitter": "stad3650"
+  },
+  {
+    "nis": "72037",
+    "name": {
+      "n": "Hamont-Achel",
+      "f": "Hamont-Achel"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "72038",
+    "name": {
+      "n": "Hechtel-Eksel",
+      "f": "Hechtel-Eksel"
+    },
+    "use": "n",
+    "twitter": "Hechtel_Eksel"
+  },
+  {
+    "nis": "72039",
+    "name": {
+      "n": "Houthalen-Helchteren",
+      "f": "Houthalen-Helchteren"
+    },
+    "use": "n",
+    "twitter": "Houth_Helcht"
+  },
+  {
+    "nis": "72018",
+    "name": {
+      "n": "Kinrooi",
+      "f": "Kinrooi"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "72020",
+    "name": {
+      "n": "Lommel",
+      "f": "Lommel"
+    },
+    "use": "n",
+    "twitter": "stadlommel"
+  },
+  {
+    "nis": "72021",
+    "name": {
+      "n": "Maaseik",
+      "f": "Maaseik"
+    },
+    "use": "n",
+    "twitter": "maaseik3680"
+  },
+  {
+    "nis": "72042",
+    "name": {
+      "n": "Oudsbergen",
+      "f": "Oudsbergen"
+    },
+    "use": "n",
+    "twitter": "Oudsbergen"
+  },
+  {
+    "nis": "72043",
+    "name": {
+      "n": "Pelt",
+      "f": "Pelt"
+    },
+    "use": "n",
+    "twitter": "Gemeentepelt"
+  },
+  {
+    "nis": "72030",
+    "name": {
+      "n": "Peer",
+      "f": "Peer"
+    },
+    "use": "n",
+    "twitter": "stadPeer"
+  },
+  {
+    "nis": "73001",
+    "name": {
+      "n": "Alken",
+      "f": "Alken"
+    },
+    "use": "n",
+    "twitter": "GemeenteAlken"
+  },
+  {
+    "nis": "73006",
+    "name": {
+      "n": "Bilzen",
+      "f": "Bilzen"
+    },
+    "use": "n",
+    "twitter": "StadBilzen"
+  },
+  {
+    "nis": "73009",
+    "name": {
+      "n": "Borgloon",
+      "f": "Looz"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "73022",
+    "name": {
+      "n": "Heers",
+      "f": "Heers"
+    },
+    "use": "n",
+    "twitter": "HeersGem"
+  },
+  {
+    "nis": "73028",
+    "name": {
+      "n": "Herstappe",
+      "f": "Herstappe"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "73032",
+    "name": {
+      "n": "Hoeselt",
+      "f": "Hoeselt"
+    },
+    "use": "n",
+    "twitter": "hoeselt"
+  },
+  {
+    "nis": "73040",
+    "name": {
+      "n": "Kortessem",
+      "f": "Kortessem"
+    },
+    "use": "n",
+    "twitter": "GemKortessem"
+  },
+  {
+    "nis": "73042",
+    "name": {
+      "n": "Lanaken",
+      "f": "Lanaken"
+    },
+    "use": "n",
+    "twitter": "GemeenteLanaken"
+  },
+  {
+    "nis": "73107",
+    "name": {
+      "n": "Maasmechelen",
+      "f": "Maasmechelen"
+    },
+    "use": "n",
+    "twitter": "MAASMECHELEN"
+  },
+  {
+    "nis": "73066",
+    "name": {
+      "n": "Riemst",
+      "f": "Riemst"
+    },
+    "use": "n",
+    "twitter": "GemeenteRiemst"
+  },
+  {
+    "nis": "73083",
+    "name": {
+      "n": "Tongeren",
+      "f": "Tongres"
+    },
+    "use": "n",
+    "twitter": "stadtongeren"
+  },
+  {
+    "nis": "73109",
+    "name": {
+      "n": "Voeren",
+      "f": "Fourons"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "73098",
+    "name": {
+      "n": "Wellen",
+      "f": "Wellen"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "41002",
+    "name": {
+      "n": "Aalst",
+      "f": "Alost"
+    },
+    "use": "n",
+    "twitter": "stadAalst"
+  },
+  {
+    "nis": "41011",
+    "name": {
+      "n": "Denderleeuw",
+      "f": "Denderleeuw"
+    },
+    "use": "n",
+    "twitter": "denderleeuw"
+  },
+  {
+    "nis": "41082",
+    "name": {
+      "n": "Erpe-Mere",
+      "f": "Erpe-Mere"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "41018",
+    "name": {
+      "n": "Geraardsbergen",
+      "f": "Grammont"
+    },
+    "use": "n",
+    "twitter": "StadGbergen"
+  },
+  {
+    "nis": "41024",
+    "name": {
+      "n": "Haaltert",
+      "f": "Haaltert"
+    },
+    "use": "n",
+    "twitter": "GemHaaltert"
+  },
+  {
+    "nis": "41027",
+    "name": {
+      "n": "Herzele",
+      "f": "Herzele"
+    },
+    "use": "n",
+    "twitter": "gemeenteHerzele"
+  },
+  {
+    "nis": "41034",
+    "name": {
+      "n": "Lede",
+      "f": "Lede"
+    },
+    "use": "n",
+    "twitter": "gemeentelede"
+  },
+  {
+    "nis": "41048",
+    "name": {
+      "n": "Ninove",
+      "f": "Ninove"
+    },
+    "use": "n",
+    "twitter": "stadNinove"
+  },
+  {
+    "nis": "41063",
+    "name": {
+      "n": "Sint-Lievens-Houtem",
+      "f": "Sint-Lievens-Houtem"
+    },
+    "use": "n",
+    "twitter": "sintlievenshout"
+  },
+  {
+    "nis": "41081",
+    "name": {
+      "n": "Zottegem",
+      "f": "Zottegem"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "42003",
+    "name": {
+      "n": "Berlare",
+      "f": "Berlare"
+    },
+    "use": "n",
+    "twitter": "gemeenteberlare"
+  },
+  {
+    "nis": "42004",
+    "name": {
+      "n": "Buggenhout",
+      "f": "Buggenhout"
+    },
+    "use": "n",
+    "twitter": "gemBuggenhout"
+  },
+  {
+    "nis": "42006",
+    "name": {
+      "n": "Dendermonde",
+      "f": "Termonde"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "42008",
+    "name": {
+      "n": "Hamme",
+      "f": "Hamme"
+    },
+    "use": "n",
+    "twitter": "gemeentehamme"
+  },
+  {
+    "nis": "42010",
+    "name": {
+      "n": "Laarne",
+      "f": "Laarne"
+    },
+    "use": "n",
+    "twitter": "GemeenteLaarne"
+  },
+  {
+    "nis": "42011",
+    "name": {
+      "n": "Lebbeke",
+      "f": "Lebbeke"
+    },
+    "use": "n",
+    "twitter": "GemeenteLebbeke"
+  },
+  {
+    "nis": "42023",
+    "name": {
+      "n": "Waasmunster",
+      "f": "Waasmunster"
+    },
+    "use": "n",
+    "twitter": "Gem_Waasmunster"
+  },
+  {
+    "nis": "42025",
+    "name": {
+      "n": "Wetteren",
+      "f": "Wetteren"
+    },
+    "use": "n",
+    "twitter": "Wetteren"
+  },
+  {
+    "nis": "42026",
+    "name": {
+      "n": "Wichelen",
+      "f": "Wichelen"
+    },
+    "use": "n",
+    "twitter": "WICHELEN"
+  },
+  {
+    "nis": "42028",
+    "name": {
+      "n": "Zele",
+      "f": "Zele"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "43002",
+    "name": {
+      "n": "Assenede",
+      "f": "Assenede"
+    },
+    "use": "n",
+    "twitter": "9960Assenede"
+  },
+  {
+    "nis": "43005",
+    "name": {
+      "n": "Eeklo",
+      "f": "Eeklo"
+    },
+    "use": "n",
+    "twitter": "StadEeklo"
+  },
+  {
+    "nis": "43007",
+    "name": {
+      "n": "Kaprijke",
+      "f": "Kaprijke"
+    },
+    "use": "n",
+    "twitter": "Kaprijke_be"
+  },
+  {
+    "nis": "43010",
+    "name": {
+      "n": "Maldegem",
+      "f": "Maldegem"
+    },
+    "use": "n",
+    "twitter": "Maldegem"
+  },
+  {
+    "nis": "43014",
+    "name": {
+      "n": "Sint-Laureins",
+      "f": "Sint-Laureins"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "43018",
+    "name": {
+      "n": "Zelzate",
+      "f": "Zelzate"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "44084",
+    "name": {
+      "n": "Aalter",
+      "f": "Aalter"
+    },
+    "use": "n",
+    "twitter": "gemeenteAalter"
+  },
+  {
+    "nis": "44012",
+    "name": {
+      "n": "De Pinte",
+      "f": "De Pinte"
+    },
+    "use": "n",
+    "twitter": "gemeentedepinte"
+  },
+  {
+    "nis": "44083",
+    "name": {
+      "n": "Deinze",
+      "f": "Deinze"
+    },
+    "use": "n",
+    "twitter": "StadDeinze"
+  },
+  {
+    "nis": "44013",
+    "name": {
+      "n": "Destelbergen",
+      "f": "Destelbergen"
+    },
+    "use": "n",
+    "twitter": "Destelbergen"
+  },
+  {
+    "nis": "44019",
+    "name": {
+      "n": "Evergem",
+      "f": "Evergem"
+    },
+    "use": "n",
+    "twitter": "GemeenteEvergem"
+  },
+  {
+    "nis": "44020",
+    "name": {
+      "n": "Gavere",
+      "f": "Gavere"
+    },
+    "use": "n",
+    "twitter": "GemeenteGavere"
+  },
+  {
+    "nis": "44021",
+    "name": {
+      "n": "Gent",
+      "f": "Gand"
+    },
+    "use": "n",
+    "twitter": "Stadgent"
+  },
+  {
+    "nis": "44034",
+    "name": {
+      "n": "Lochristi",
+      "f": "Lochristi"
+    },
+    "use": "n",
+    "twitter": "lochristi9080"
+  },
+  {
+    "nis": "44040",
+    "name": {
+      "n": "Melle",
+      "f": "Melle"
+    },
+    "use": "n",
+    "twitter": "BestuurMelle"
+  },
+  {
+    "nis": "44043",
+    "name": {
+      "n": "Merelbeke",
+      "f": "Merelbeke"
+    },
+    "use": "n",
+    "twitter": "merelbeke"
+  },
+  {
+    "nis": "44045",
+    "name": {
+      "n": "Moerbeke",
+      "f": "Moerbeke"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "44048",
+    "name": {
+      "n": "Nazareth",
+      "f": "Nazareth"
+    },
+    "use": "n",
+    "twitter": "Nazareth9810"
+  },
+  {
+    "nis": "44052",
+    "name": {
+      "n": "Oosterzele",
+      "f": "Oosterzele"
+    },
+    "use": "n",
+    "twitter": "oosterzele"
+  },
+  {
+    "nis": "44064",
+    "name": {
+      "n": "Sint-Martens-Latem",
+      "f": "Sint-Martens-Latem"
+    },
+    "use": "n",
+    "twitter": "9830SML"
+  },
+  {
+    "nis": "44085",
+    "name": {
+      "n": "Lievegem",
+      "f": "Lievegem"
+    },
+    "use": "n",
+    "twitter": "gemlievegem"
+  },
+  {
+    "nis": "44073",
+    "name": {
+      "n": "Wachtebeke",
+      "f": "Wachtebeke"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "44081",
+    "name": {
+      "n": "Zulte",
+      "f": "Zulte"
+    },
+    "use": "n",
+    "twitter": "GemeenteZulte"
+  },
+  {
+    "nis": "45059",
+    "name": {
+      "n": "Brakel",
+      "f": "Brakel"
+    },
+    "use": "n",
+    "twitter": "gemeentebrakel"
+  },
+  {
+    "nis": "45062",
+    "name": {
+      "n": "Horebeke",
+      "f": "Horebeke"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "45060",
+    "name": {
+      "n": "Kluisbergen",
+      "f": "Kluisbergen"
+    },
+    "use": "n",
+    "twitter": "_Kluisbergen"
+  },
+  {
+    "nis": "45068",
+    "name": {
+      "n": "Kruisem",
+      "f": "Kruisem"
+    },
+    "use": "n",
+    "twitter": "GemeenteKruisem"
+  },
+  {
+    "nis": "45063",
+    "name": {
+      "n": "Lierde",
+      "f": "Lierde"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "45064",
+    "name": {
+      "n": "Maarkedal",
+      "f": "Maarkedal"
+    },
+    "use": "n",
+    "twitter": "gemMaarkedal"
+  },
+  {
+    "nis": "45035",
+    "name": {
+      "n": "Oudenaarde",
+      "f": "Audenarde"
+    },
+    "use": "n",
+    "twitter": "stad_oudenaarde"
+  },
+  {
+    "nis": "45041",
+    "name": {
+      "n": "Ronse",
+      "f": "Renaix"
+    },
+    "use": "n",
+    "twitter": "InfoRonse"
+  },
+  {
+    "nis": "45061",
+    "name": {
+      "n": "Wortegem-Petegem",
+      "f": "Wortegem-Petegem"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "45065",
+    "name": {
+      "n": "Zwalm",
+      "f": "Zwalm"
+    },
+    "use": "n",
+    "twitter": "GemeenteZwalm"
+  },
+  {
+    "nis": "46003",
+    "name": {
+      "n": "Beveren",
+      "f": "Beveren"
+    },
+    "use": "n",
+    "twitter": "gemeenteBeveren"
+  },
+  {
+    "nis": "46013",
+    "name": {
+      "n": "Kruibeke",
+      "f": "Kruibeke"
+    },
+    "use": "n",
+    "twitter": "Kruibeke"
+  },
+  {
+    "nis": "46014",
+    "name": {
+      "n": "Lokeren",
+      "f": "Lokeren"
+    },
+    "use": "n",
+    "twitter": "stadlokeren"
+  },
+  {
+    "nis": "46020",
+    "name": {
+      "n": "Sint-Gillis-Waas",
+      "f": "Sint-Gillis-Waas"
+    },
+    "use": "n",
+    "twitter": "Gemeente_SGW"
+  },
+  {
+    "nis": "46021",
+    "name": {
+      "n": "Sint-Niklaas",
+      "f": "Saint-Nicolas"
+    },
+    "use": "n",
+    "twitter": "stadsintniklaas"
+  },
+  {
+    "nis": "46024",
+    "name": {
+      "n": "Stekene",
+      "f": "Stekene"
+    },
+    "use": "n",
+    "twitter": "gemeentestekene"
+  },
+  {
+    "nis": "46025",
+    "name": {
+      "n": "Temse",
+      "f": "Tamise"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "23105",
+    "name": {
+      "n": "Affligem",
+      "f": "Affligem"
+    },
+    "use": "n",
+    "twitter": "gemeente1959"
+  },
+  {
+    "nis": "23002",
+    "name": {
+      "n": "Asse",
+      "f": "Asse"
+    },
+    "use": "n",
+    "twitter": "gemeenteasse"
+  },
+  {
+    "nis": "23003",
+    "name": {
+      "n": "Beersel",
+      "f": "Beersel"
+    },
+    "use": "n",
+    "twitter": "GemeenteBeersel"
+  },
+  {
+    "nis": "23009",
+    "name": {
+      "n": "Bever",
+      "f": "Biévène"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "23016",
+    "name": {
+      "n": "Dilbeek",
+      "f": "Dilbeek"
+    },
+    "use": "n",
+    "twitter": "GemeenteDilbeek"
+  },
+  {
+    "nis": "23098",
+    "name": {
+      "n": "Drogenbos",
+      "f": "Drogenbos"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "23023",
+    "name": {
+      "n": "Galmaarden",
+      "f": "Gammerages"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "23024",
+    "name": {
+      "n": "Gooik",
+      "f": "Gooik"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "23025",
+    "name": {
+      "n": "Grimbergen",
+      "f": "Grimbergen"
+    },
+    "use": "n",
+    "twitter": "1850Grimbergen"
+  },
+  {
+    "nis": "23027",
+    "name": {
+      "n": "Halle",
+      "f": "Hal"
+    },
+    "use": "n",
+    "twitter": "stad_Halle"
+  },
+  {
+    "nis": "23032",
+    "name": {
+      "n": "Herne",
+      "f": "Herne"
+    },
+    "use": "n",
+    "twitter": "GemeenteHerne"
+  },
+  {
+    "nis": "23033",
+    "name": {
+      "n": "Hoeilaart",
+      "f": "Hoeilaart"
+    },
+    "use": "n",
+    "twitter": "hoeilaart1560"
+  },
+  {
+    "nis": "23038",
+    "name": {
+      "n": "Kampenhout",
+      "f": "Kampenhout"
+    },
+    "use": "n",
+    "twitter": "kampenhout1910"
+  },
+  {
+    "nis": "23039",
+    "name": {
+      "n": "Kapelle-op-den-Bos",
+      "f": "Kapelle-op-den-Bos"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "23099",
+    "name": {
+      "n": "Kraainem",
+      "f": "Kraainem"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "23104",
+    "name": {
+      "n": "Lennik",
+      "f": "Lennik"
+    },
+    "use": "n",
+    "twitter": "gemeentelennik"
+  },
+  {
+    "nis": "23044",
+    "name": {
+      "n": "Liedekerke",
+      "f": "Liedekerke"
+    },
+    "use": "n",
+    "twitter": "Liedekerke1770"
+  },
+  {
+    "nis": "23100",
+    "name": {
+      "n": "Linkebeek",
+      "f": "Linkebeek"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "23045",
+    "name": {
+      "n": "Londerzeel",
+      "f": "Londerzeel"
+    },
+    "use": "n",
+    "twitter": "Londerzeel1840"
+  },
+  {
+    "nis": "23047",
+    "name": {
+      "n": "Machelen",
+      "f": "Machelen"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "23050",
+    "name": {
+      "n": "Meise",
+      "f": "Meise"
+    },
+    "use": "n",
+    "twitter": "gemeente_meise"
+  },
+  {
+    "nis": "23052",
+    "name": {
+      "n": "Merchtem",
+      "f": "Merchtem"
+    },
+    "use": "n",
+    "twitter": "Merchtem1785"
+  },
+  {
+    "nis": "23060",
+    "name": {
+      "n": "Opwijk",
+      "f": "Opwijk"
+    },
+    "use": "n",
+    "twitter": "GemeenteOpwijk"
+  },
+  {
+    "nis": "23062",
+    "name": {
+      "n": "Overijse",
+      "f": "Overijse"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "23064",
+    "name": {
+      "n": "Pepingen",
+      "f": "Pepingen"
+    },
+    "use": "n",
+    "twitter": "GemPepingen"
+  },
+  {
+    "nis": "23097",
+    "name": {
+      "n": "Roosdaal",
+      "f": "Roosdaal"
+    },
+    "use": "n",
+    "twitter": "gemroosdaal"
+  },
+  {
+    "nis": "23101",
+    "name": {
+      "n": "Sint-Genesius-Rode",
+      "f": "Rhode-Saint-Genèse"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "23077",
+    "name": {
+      "n": "Sint-Pieters-Leeuw",
+      "f": "Sint-Pieters-Leeuw"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "23081",
+    "name": {
+      "n": "Steenokkerzeel",
+      "f": "Steenokkerzeel"
+    },
+    "use": "n",
+    "twitter": "Steenokkerzeel_"
+  },
+  {
+    "nis": "23086",
+    "name": {
+      "n": "Ternat",
+      "f": "Ternat"
+    },
+    "use": "n",
+    "twitter": "ternat1740"
+  },
+  {
+    "nis": "23088",
+    "name": {
+      "n": "Vilvoorde",
+      "f": "Vilvorde"
+    },
+    "use": "n",
+    "twitter": "stadVilvoorde"
+  },
+  {
+    "nis": "23102",
+    "name": {
+      "n": "Wemmel",
+      "f": "Wemmel"
+    },
+    "use": "n",
+    "twitter": "gemeente_wemmel"
+  },
+  {
+    "nis": "23103",
+    "name": {
+      "n": "Wezembeek-Oppem",
+      "f": "Wezembeek-Oppem"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "23094",
+    "name": {
+      "n": "Zaventem",
+      "f": "Zaventem"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "23096",
+    "name": {
+      "n": "Zemst",
+      "f": "Zemst"
+    },
+    "use": "n",
+    "twitter": "GemeenteZemst"
+  },
+  {
+    "nis": "24001",
+    "name": {
+      "n": "Aarschot",
+      "f": "Aarschot"
+    },
+    "use": "n",
+    "twitter": "StadAarschot"
+  },
+  {
+    "nis": "24007",
+    "name": {
+      "n": "Begijnendijk",
+      "f": "Begijnendijk"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "24008",
+    "name": {
+      "n": "Bekkevoort",
+      "f": "Bekkevoort"
+    },
+    "use": "n",
+    "twitter": "bekkevoort"
+  },
+  {
+    "nis": "24009",
+    "name": {
+      "n": "Bertem",
+      "f": "Bertem"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "24011",
+    "name": {
+      "n": "Bierbeek",
+      "f": "Bierbeek"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "24014",
+    "name": {
+      "n": "Boortmeerbeek",
+      "f": "Boortmeerbeek"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "24016",
+    "name": {
+      "n": "Boutersem",
+      "f": "Boutersem"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "24020",
+    "name": {
+      "n": "Diest",
+      "f": "Diest"
+    },
+    "use": "n",
+    "twitter": "staddiest"
+  },
+  {
+    "nis": "24028",
+    "name": {
+      "n": "Geetbets",
+      "f": "Geetbets"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "24137",
+    "name": {
+      "n": "Glabbeek",
+      "f": "Glabbeek"
+    },
+    "use": "n",
+    "twitter": "infoGlabbeek"
+  },
+  {
+    "nis": "24033",
+    "name": {
+      "n": "Haacht",
+      "f": "Haacht"
+    },
+    "use": "n",
+    "twitter": "GemeenteHaacht"
+  },
+  {
+    "nis": "24038",
+    "name": {
+      "n": "Herent",
+      "f": "Herent"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "24041",
+    "name": {
+      "n": "Hoegaarden",
+      "f": "Hoegaarden"
+    },
+    "use": "n",
+    "twitter": "gemhoegaarden"
+  },
+  {
+    "nis": "24043",
+    "name": {
+      "n": "Holsbeek",
+      "f": "Holsbeek"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "24045",
+    "name": {
+      "n": "Huldenberg",
+      "f": "Huldenberg"
+    },
+    "use": "n",
+    "twitter": "3040Huldenberg"
+  },
+  {
+    "nis": "24048",
+    "name": {
+      "n": "Keerbergen",
+      "f": "Keerbergen"
+    },
+    "use": "n",
+    "twitter": "gemkeerbergen"
+  },
+  {
+    "nis": "24054",
+    "name": {
+      "n": "Kortenaken",
+      "f": "Kortenaken"
+    },
+    "use": "n",
+    "twitter": "GKortenaken"
+  },
+  {
+    "nis": "24055",
+    "name": {
+      "n": "Kortenberg",
+      "f": "Kortenberg"
+    },
+    "use": "n",
+    "twitter": "GemKortenberg"
+  },
+  {
+    "nis": "24059",
+    "name": {
+      "n": "Landen",
+      "f": "Landen"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "24062",
+    "name": {
+      "n": "Leuven",
+      "f": "Louvain"
+    },
+    "use": "n",
+    "twitter": "stadleuven"
+  },
+  {
+    "nis": "24133",
+    "name": {
+      "n": "Linter",
+      "f": "Linter"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "24066",
+    "name": {
+      "n": "Lubbeek",
+      "f": "Lubbeek"
+    },
+    "use": "n",
+    "twitter": "lubbeek"
+  },
+  {
+    "nis": "24086",
+    "name": {
+      "n": "Oud-Heverlee",
+      "f": "Oud-Heverlee"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "24094",
+    "name": {
+      "n": "Rotselaar",
+      "f": "Rotselaar"
+    },
+    "use": "n",
+    "twitter": "rotselaar"
+  },
+  {
+    "nis": "24134",
+    "name": {
+      "n": "Scherpenheuvel-Zichem",
+      "f": "Montaigu-Zichem"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "24104",
+    "name": {
+      "n": "Tervuren",
+      "f": "Tervuren"
+    },
+    "use": "n",
+    "twitter": "VisitTervuren"
+  },
+  {
+    "nis": "24135",
+    "name": {
+      "n": "Tielt-Winge",
+      "f": "Tielt-Winge"
+    },
+    "use": "n",
+    "twitter": "tieltwinge"
+  },
+  {
+    "nis": "24107",
+    "name": {
+      "n": "Tienen",
+      "f": "Tirlemont"
+    },
+    "use": "n",
+    "twitter": "StadTienen"
+  },
+  {
+    "nis": "24109",
+    "name": {
+      "n": "Tremelo",
+      "f": "Tremelo"
+    },
+    "use": "n",
+    "twitter": "GemeenteTremelo"
+  },
+  {
+    "nis": "24130",
+    "name": {
+      "n": "Zoutleeuw",
+      "f": "Léau"
+    },
+    "use": "n",
+    "twitter": "Stad_Zoutleeuw"
+  },
+  {
+    "nis": "31003",
+    "name": {
+      "n": "Beernem",
+      "f": "Beernem"
+    },
+    "use": "n",
+    "twitter": "Beernem"
+  },
+  {
+    "nis": "31004",
+    "name": {
+      "n": "Blankenberge",
+      "f": "Blankenberge"
+    },
+    "use": "n",
+    "twitter": "iblankenberge"
+  },
+  {
+    "nis": "31005",
+    "name": {
+      "n": "Brugge",
+      "f": "Bruges"
+    },
+    "use": "n",
+    "twitter": "StadBrugge"
+  },
+  {
+    "nis": "31006",
+    "name": {
+      "n": "Damme",
+      "f": "Damme"
+    },
+    "use": "n",
+    "twitter": "StadDamme"
+  },
+  {
+    "nis": "31012",
+    "name": {
+      "n": "Jabbeke",
+      "f": "Jabbeke"
+    },
+    "use": "n",
+    "twitter": "gemeentejabbeke"
+  },
+  {
+    "nis": "31043",
+    "name": {
+      "n": "Knokke-Heist",
+      "f": "Knokke-Heist"
+    },
+    "use": "n",
+    "twitter": "GemKnokkeHeist"
+  },
+  {
+    "nis": "31022",
+    "name": {
+      "n": "Oostkamp",
+      "f": "Oostkamp"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "31033",
+    "name": {
+      "n": "Torhout",
+      "f": "Torhout"
+    },
+    "use": "n",
+    "twitter": "torhout"
+  },
+  {
+    "nis": "31040",
+    "name": {
+      "n": "Zedelgem",
+      "f": "Zedelgem"
+    },
+    "use": "n",
+    "twitter": "infozedelgem"
+  },
+  {
+    "nis": "31042",
+    "name": {
+      "n": "Zuienkerke",
+      "f": "Zuienkerke"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "32003",
+    "name": {
+      "n": "Diksmuide",
+      "f": "Dixmude"
+    },
+    "use": "n",
+    "twitter": "StadDiksmuide"
+  },
+  {
+    "nis": "32006",
+    "name": {
+      "n": "Houthulst",
+      "f": "Houthulst"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "32010",
+    "name": {
+      "n": "Koekelare",
+      "f": "Koekelare"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "32011",
+    "name": {
+      "n": "Kortemark",
+      "f": "Kortemark"
+    },
+    "use": "n",
+    "twitter": "GKortemark"
+  },
+  {
+    "nis": "32030",
+    "name": {
+      "n": "Lo-Reninge",
+      "f": "Lo-Reninge"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "33039",
+    "name": {
+      "n": "Heuvelland",
+      "f": "Heuvelland"
+    },
+    "use": "n",
+    "twitter": "heuvelland_wvl"
+  },
+  {
+    "nis": "33011",
+    "name": {
+      "n": "Ieper",
+      "f": "Ypres"
+    },
+    "use": "n",
+    "twitter": "StadIeper"
+  },
+  {
+    "nis": "33040",
+    "name": {
+      "n": "Langemark-Poelkapelle",
+      "f": "Langemark-Poelkapelle"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "33016",
+    "name": {
+      "n": "Mesen",
+      "f": "Messines"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "33021",
+    "name": {
+      "n": "Poperinge",
+      "f": "Poperinge"
+    },
+    "use": "n",
+    "twitter": "Poperinge8970"
+  },
+  {
+    "nis": "33041",
+    "name": {
+      "n": "Vleteren",
+      "f": "Vleteren"
+    },
+    "use": "n",
+    "twitter": "gem_vleteren"
+  },
+  {
+    "nis": "33029",
+    "name": {
+      "n": "Wervik",
+      "f": "Wervik"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "33037",
+    "name": {
+      "n": "Zonnebeke",
+      "f": "Zonnebeke"
+    },
+    "use": "n",
+    "twitter": "gzonnebeke"
+  },
+  {
+    "nis": "34002",
+    "name": {
+      "n": "Anzegem",
+      "f": "Anzegem"
+    },
+    "use": "n",
+    "twitter": "GemeenteAnzegem"
+  },
+  {
+    "nis": "34003",
+    "name": {
+      "n": "Avelgem",
+      "f": "Avelgem"
+    },
+    "use": "n",
+    "twitter": "GemeenteAvelgem"
+  },
+  {
+    "nis": "34009",
+    "name": {
+      "n": "Deerlijk",
+      "f": "Deerlijk"
+    },
+    "use": "n",
+    "twitter": "GemDeerlijk"
+  },
+  {
+    "nis": "34013",
+    "name": {
+      "n": "Harelbeke",
+      "f": "Harelbeke"
+    },
+    "use": "n",
+    "twitter": "StadHarelbeke"
+  },
+  {
+    "nis": "34022",
+    "name": {
+      "n": "Kortrijk",
+      "f": "Courtrai"
+    },
+    "use": "n",
+    "twitter": "8500kortrijk"
+  },
+  {
+    "nis": "34023",
+    "name": {
+      "n": "Kuurne",
+      "f": "Kuurne"
+    },
+    "use": "n",
+    "twitter": "GemeenteKuurne"
+  },
+  {
+    "nis": "34025",
+    "name": {
+      "n": "Lendelede",
+      "f": "Lendelede"
+    },
+    "use": "n",
+    "twitter": "GemLendelede"
+  },
+  {
+    "nis": "34027",
+    "name": {
+      "n": "Menen",
+      "f": "Menin"
+    },
+    "use": "n",
+    "twitter": "StadMenen"
+  },
+  {
+    "nis": "34043",
+    "name": {
+      "n": "Spiere-Helkijn",
+      "f": "Espierres-Helchin"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "34040",
+    "name": {
+      "n": "Waregem",
+      "f": "Waregem"
+    },
+    "use": "n",
+    "twitter": "Stad_Waregem"
+  },
+  {
+    "nis": "34041",
+    "name": {
+      "n": "Wevelgem",
+      "f": "Wevelgem"
+    },
+    "use": "n",
+    "twitter": "wevelgem8560"
+  },
+  {
+    "nis": "34042",
+    "name": {
+      "n": "Zwevegem",
+      "f": "Zwevegem"
+    },
+    "use": "n",
+    "twitter": "GemZwevegem"
+  },
+  {
+    "nis": "35002",
+    "name": {
+      "n": "Bredene",
+      "f": "Bredene"
+    },
+    "use": "n",
+    "twitter": "gemBredene"
+  },
+  {
+    "nis": "35029",
+    "name": {
+      "n": "De Haan",
+      "f": "De Haan"
+    },
+    "use": "n",
+    "twitter": "dehaanwenduine"
+  },
+  {
+    "nis": "35005",
+    "name": {
+      "n": "Gistel",
+      "f": "Gistel"
+    },
+    "use": "n",
+    "twitter": "StadGistel"
+  },
+  {
+    "nis": "35006",
+    "name": {
+      "n": "Ichtegem",
+      "f": "Ichtegem"
+    },
+    "use": "n",
+    "twitter": "8480_Ichtegem"
+  },
+  {
+    "nis": "35011",
+    "name": {
+      "n": "Middelkerke",
+      "f": "Middelkerke"
+    },
+    "use": "n",
+    "twitter": "gem_Middelkerke"
+  },
+  {
+    "nis": "35013",
+    "name": {
+      "n": "Oostende",
+      "f": "Ostende"
+    },
+    "use": "n",
+    "twitter": "StadaanZee"
+  },
+  {
+    "nis": "35014",
+    "name": {
+      "n": "Oudenburg",
+      "f": "Oudenburg"
+    },
+    "use": "n",
+    "twitter": "StadOudenburg"
+  },
+  {
+    "nis": "36006",
+    "name": {
+      "n": "Hooglede",
+      "f": "Hooglede"
+    },
+    "use": "n",
+    "twitter": "hoogledegits"
+  },
+  {
+    "nis": "36007",
+    "name": {
+      "n": "Ingelmunster",
+      "f": "Ingelmunster"
+    },
+    "use": "n",
+    "twitter": "ingelmunster"
+  },
+  {
+    "nis": "36008",
+    "name": {
+      "n": "Izegem",
+      "f": "Izegem"
+    },
+    "use": "n",
+    "twitter": "izegem"
+  },
+  {
+    "nis": "36010",
+    "name": {
+      "n": "Ledegem",
+      "f": "Ledegem"
+    },
+    "use": "n",
+    "twitter": "gemeenteledegem"
+  },
+  {
+    "nis": "36011",
+    "name": {
+      "n": "Lichtervelde",
+      "f": "Lichtervelde"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "36012",
+    "name": {
+      "n": "Moorslede",
+      "f": "Moorslede"
+    },
+    "use": "n",
+    "twitter": "grootmoorslede"
+  },
+  {
+    "nis": "36015",
+    "name": {
+      "n": "Roeselare",
+      "f": "Roulers"
+    },
+    "use": "n",
+    "twitter": "Stad_Roeselare"
+  },
+  {
+    "nis": "36019",
+    "name": {
+      "n": "Staden",
+      "f": "Staden"
+    },
+    "use": "n",
+    "twitter": "GemeenteStaden"
+  },
+  {
+    "nis": "37020",
+    "name": {
+      "n": "Ardooie",
+      "f": "Ardooie"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "37002",
+    "name": {
+      "n": "Dentergem",
+      "f": "Dentergem"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "37007",
+    "name": {
+      "n": "Meulebeke",
+      "f": "Meulebeke"
+    },
+    "use": "n",
+    "twitter": "8760Meulebeke"
+  },
+  {
+    "nis": "37010",
+    "name": {
+      "n": "Oostrozebeke",
+      "f": "Oostrozebeke"
+    },
+    "use": "n",
+    "twitter": "oostrozebeke"
+  },
+  {
+    "nis": "37011",
+    "name": {
+      "n": "Pittem",
+      "f": "Pittem"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "37012",
+    "name": {
+      "n": "Ruiselede",
+      "f": "Ruiselede"
+    },
+    "use": "n",
+    "twitter": "ruiselede"
+  },
+  {
+    "nis": "37015",
+    "name": {
+      "n": "Tielt",
+      "f": "Tielt"
+    },
+    "use": "n",
+    "twitter": "StadTielt"
+  },
+  {
+    "nis": "37017",
+    "name": {
+      "n": "Wielsbeke",
+      "f": "Wielsbeke"
+    },
+    "use": "n",
+    "twitter": "wielsbeke"
+  },
+  {
+    "nis": "37018",
+    "name": {
+      "n": "Wingene",
+      "f": "Wingene"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "38002",
+    "name": {
+      "n": "Alveringem",
+      "f": "Alveringem"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "38008",
+    "name": {
+      "n": "De Panne",
+      "f": "La Panne"
+    },
+    "use": "n",
+    "twitter": "gemeentedepanne"
+  },
+  {
+    "nis": "38014",
+    "name": {
+      "n": "Koksijde",
+      "f": "Koksijde"
+    },
+    "use": "n",
+    "twitter": "gem_Koksijde"
+  },
+  {
+    "nis": "38016",
+    "name": {
+      "n": "Nieuwpoort",
+      "f": "Nieuport"
+    },
+    "use": "n",
+    "twitter": "StadNieuwpoort"
+  },
+  {
+    "nis": "38025",
+    "name": {
+      "n": "Veurne",
+      "f": "Furnes"
+    },
+    "use": "n",
+    "twitter": "StadVeurne"
+  },
+  {
+    "nis": "21001",
+    "name": {
+      "n": "Anderlecht",
+      "f": "Anderlecht"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "21004",
+    "name": {
+      "n": "Brussel",
+      "f": "Bruxelles"
+    },
+    "use": "n",
+    "twitter": "stadbrussel"
+  },
+  {
+    "nis": "21009",
+    "name": {
+      "n": "Elsene",
+      "f": "Ixelles"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "21005",
+    "name": {
+      "n": "Etterbeek",
+      "f": "Etterbeek"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "21006",
+    "name": {
+      "n": "Evere",
+      "f": "Evere"
+    },
+    "use": "n",
+    "twitter": "infoevere"
+  },
+  {
+    "nis": "21008",
+    "name": {
+      "n": "Ganshoren",
+      "f": "Ganshoren"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "21010",
+    "name": {
+      "n": "Jette",
+      "f": "Jette"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "21011",
+    "name": {
+      "n": "Koekelberg",
+      "f": "Koekelberg"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "21002",
+    "name": {
+      "n": "Oudergem",
+      "f": "Auderghem"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "21015",
+    "name": {
+      "n": "Schaarbeek",
+      "f": "Schaerbeek"
+    },
+    "use": "n",
+    "twitter": "achillecolignon"
+  },
+  {
+    "nis": "21003",
+    "name": {
+      "n": "Sint-Agatha-Berchem",
+      "f": "Berchem-Sainte-Agathe"
+    },
+    "use": "n",
+    "twitter": "berchembrussels"
+  },
+  {
+    "nis": "21013",
+    "name": {
+      "n": "Sint-Gillis",
+      "f": "Saint-Gilles"
+    },
+    "use": "n",
+    "twitter": "saint_gilles"
+  },
+  {
+    "nis": "21012",
+    "name": {
+      "n": "Sint-Jans-Molenbeek",
+      "f": "Molenbeek-Saint-Jean"
+    },
+    "use": "n",
+    "twitter": "molenbee"
+  },
+  {
+    "nis": "21014",
+    "name": {
+      "n": "Sint-Joost-ten-Node",
+      "f": "Saint-Josse-ten-Noode"
+    },
+    "use": "n",
+    "twitter": "sjtnbrussels"
+  },
+  {
+    "nis": "21018",
+    "name": {
+      "n": "Sint-Lambrechts-Woluwe",
+      "f": "Woluwe-Saint-Lambert"
+    },
+    "use": "n",
+    "twitter": "SLWoluwe1200"
+  },
+  {
+    "nis": "21019",
+    "name": {
+      "n": "Sint-Pieters-Woluwe",
+      "f": "Woluwe-Saint-Pierre"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "21016",
+    "name": {
+      "n": "Ukkel",
+      "f": "Uccle"
+    },
+    "use": "n",
+    "twitter": "communeuccle"
+  },
+  {
+    "nis": "21007",
+    "name": {
+      "n": "Vorst",
+      "f": "Forest"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "21017",
+    "name": {
+      "n": "Watermaal-Bosvoorde",
+      "f": "Watermael-Boitsfort"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "51004",
+    "name": {
+      "n": "Aat",
+      "f": "Ath"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "51008",
+    "name": {
+      "n": "Beloeil",
+      "f": "Beloeil"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "51009",
+    "name": {
+      "n": "Bernissart",
+      "f": "Bernissart"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "51012",
+    "name": {
+      "n": "Brugelette",
+      "f": "Brugelette"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "51014",
+    "name": {
+      "n": "Chièvres",
+      "f": "Chièvres"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "51017",
+    "name": {
+      "n": "Elzele",
+      "f": "Ellezelles"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "51065",
+    "name": {
+      "n": "Frasnes-lez-Anvaing",
+      "f": "Frasnes-lez-Anvaing"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "51019",
+    "name": {
+      "n": "Vloesberg",
+      "f": "Flobecq"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "53053",
+    "name": {
+      "n": "Bergen",
+      "f": "Mons"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "53014",
+    "name": {
+      "n": "Boussu",
+      "f": "Boussu"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "53082",
+    "name": {
+      "n": "Colfontaine",
+      "f": "Colfontaine"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "53020",
+    "name": {
+      "n": "Dour",
+      "f": "Dour"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "53028",
+    "name": {
+      "n": "Frameries",
+      "f": "Frameries"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "53039",
+    "name": {
+      "n": "Hensies",
+      "f": "Hensies"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "53083",
+    "name": {
+      "n": "Honnelles",
+      "f": "Honnelles"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "53044",
+    "name": {
+      "n": "Jurbeke",
+      "f": "Jurbise"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "53046",
+    "name": {
+      "n": "Lens",
+      "f": "Lens"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "53065",
+    "name": {
+      "n": "Quaregnon",
+      "f": "Quaregnon"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "53084",
+    "name": {
+      "n": "Quévy",
+      "f": "Quévy"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "53068",
+    "name": {
+      "n": "Quiévrain",
+      "f": "Quiévrain"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "53070",
+    "name": {
+      "n": "Saint-Ghislain",
+      "f": "Saint-Ghislain"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "52074",
+    "name": {
+      "n": "Aiseau-Presles",
+      "f": "Aiseau-Presles"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "52010",
+    "name": {
+      "n": "Chapelle-lez-Herlaimont",
+      "f": "Chapelle-lez-Herlaimont"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "52011",
+    "name": {
+      "n": "Charleroi",
+      "f": "Charleroi"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "52012",
+    "name": {
+      "n": "Châtelet",
+      "f": "Châtelet"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "52015",
+    "name": {
+      "n": "Courcelles",
+      "f": "Courcelles"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "52018",
+    "name": {
+      "n": "Farciennes",
+      "f": "Farciennes"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "52021",
+    "name": {
+      "n": "Fleurus",
+      "f": "Fleurus"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "52022",
+    "name": {
+      "n": "Fontaine-l'Évêque",
+      "f": "Fontaine-l'Évêque"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "52025",
+    "name": {
+      "n": "Gerpinnes",
+      "f": "Gerpinnes"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "52075",
+    "name": {
+      "n": "Les Bons Villers",
+      "f": "Les Bons Villers"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "52043",
+    "name": {
+      "n": "Manage",
+      "f": "Manage"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "52048",
+    "name": {
+      "n": "Montigny-le-Tilleul",
+      "f": "Montigny-le-Tilleul"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "52055",
+    "name": {
+      "n": "Pont-à-Celles",
+      "f": "Pont-à-Celles"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "52063",
+    "name": {
+      "n": "Seneffe",
+      "f": "Seneffe"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "57003",
+    "name": {
+      "n": "Antoing",
+      "f": "Antoing"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "57093",
+    "name": {
+      "n": "Brunehaut",
+      "f": "Brunehaut"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "57018",
+    "name": {
+      "n": "Celles",
+      "f": "Celles"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "57081",
+    "name": {
+      "n": "Doornik",
+      "f": "Tournai"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "57027",
+    "name": {
+      "n": "Estaimpuis",
+      "f": "Estaimpuis"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "57094",
+    "name": {
+      "n": "Leuze-en-Hainaut",
+      "f": "Leuze-en-Hainaut"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "57095",
+    "name": {
+      "n": "Mont-de-l'Enclus",
+      "f": "Mont-de-l'Enclus"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "57062",
+    "name": {
+      "n": "Pecq",
+      "f": "Pecq"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "57064",
+    "name": {
+      "n": "Péruwelz",
+      "f": "Péruwelz"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "57072",
+    "name": {
+      "n": "Rumes",
+      "f": "Rumes"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "54010",
+    "name": {
+      "n": "Komen-Waasten",
+      "f": "Comines-Warneton"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "54007",
+    "name": {
+      "n": "Moeskroen",
+      "f": "Mouscron"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "56001",
+    "name": {
+      "n": "Anderlues",
+      "f": "Anderlues"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "56005",
+    "name": {
+      "n": "Beaumont",
+      "f": "Beaumont"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "56011",
+    "name": {
+      "n": "Binche",
+      "f": "Binche"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "56016",
+    "name": {
+      "n": "Chimay",
+      "f": "Chimay"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "56022",
+    "name": {
+      "n": "Erquelinnes",
+      "f": "Erquelinnes"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "56085",
+    "name": {
+      "n": "Estinnes",
+      "f": "Estinnes"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "56029",
+    "name": {
+      "n": "Froidchapelle",
+      "f": "Froidchapelle"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "56086",
+    "name": {
+      "n": "Ham-sur-Heure-Nalinnes",
+      "f": "Ham-sur-Heure-Nalinnes"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "56044",
+    "name": {
+      "n": "Lobbes",
+      "f": "Lobbes"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "56049",
+    "name": {
+      "n": "Merbes-le-Château",
+      "f": "Merbes-le-Château"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "56051",
+    "name": {
+      "n": "Momignies",
+      "f": "Momignies"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "56087",
+    "name": {
+      "n": "Morlanwelz",
+      "f": "Morlanwelz"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "56088",
+    "name": {
+      "n": "Sivry-Rance",
+      "f": "Sivry-Rance"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "56078",
+    "name": {
+      "n": "Thuin",
+      "f": "Thuin"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "55050",
+    "name": {
+      "n": "Ecaussinnes",
+      "f": "Ecaussinnes"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "55010",
+    "name": {
+      "n": "Edingen",
+      "f": "Enghien"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "55022",
+    "name": {
+      "n": "La Louvière",
+      "f": "La Louvière"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "55035",
+    "name": {
+      "n": "Le Roeulx",
+      "f": "Le Roeulx"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "55023",
+    "name": {
+      "n": "Lessen",
+      "f": "Lessines"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "55039",
+    "name": {
+      "n": "Opzullik",
+      "f": "Silly"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "55004",
+    "name": {
+      "n": "'s Gravenbrakel",
+      "f": "Braine-le-Comte"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "55040",
+    "name": {
+      "n": "Zinnik",
+      "f": "Soignies"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "64008",
+    "name": {
+      "n": "Berloz",
+      "f": "Berloz"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "64074",
+    "name": {
+      "n": "Borgworm",
+      "f": "Waremme"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "64015",
+    "name": {
+      "n": "Braives",
+      "f": "Braives"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "64021",
+    "name": {
+      "n": "Crisnée",
+      "f": "Crisnée"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "64023",
+    "name": {
+      "n": "Donceel",
+      "f": "Donceel"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "64076",
+    "name": {
+      "n": "Faimes",
+      "f": "Faimes"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "64025",
+    "name": {
+      "n": "Fexhe-le-Haut-Clocher",
+      "f": "Fexhe-le-Haut-Clocher"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "64029",
+    "name": {
+      "n": "Geer",
+      "f": "Geer"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "64034",
+    "name": {
+      "n": "Hannuit",
+      "f": "Hannut"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "64047",
+    "name": {
+      "n": "Lijsem",
+      "f": "Lincent"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "64056",
+    "name": {
+      "n": "Oerle",
+      "f": "Oreye"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "64063",
+    "name": {
+      "n": "Remicourt",
+      "f": "Remicourt"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "64065",
+    "name": {
+      "n": "Saint-Georges-sur-Meuse",
+      "f": "Saint-Georges-sur-Meuse"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "64075",
+    "name": {
+      "n": "Wasseiges",
+      "f": "Wasseiges"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61003",
+    "name": {
+      "n": "Amay",
+      "f": "Amay"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61079",
+    "name": {
+      "n": "Anthisnes",
+      "f": "Anthisnes"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61010",
+    "name": {
+      "n": "Burdinne",
+      "f": "Burdinne"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61012",
+    "name": {
+      "n": "Clavier",
+      "f": "Clavier"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61080",
+    "name": {
+      "n": "Engis",
+      "f": "Engis"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61019",
+    "name": {
+      "n": "Ferrières",
+      "f": "Ferrières"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61024",
+    "name": {
+      "n": "Hamoir",
+      "f": "Hamoir"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61028",
+    "name": {
+      "n": "Héron",
+      "f": "Héron"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61031",
+    "name": {
+      "n": "Hoei",
+      "f": "Huy"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "61039",
+    "name": {
+      "n": "Marchin",
+      "f": "Marchin"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61041",
+    "name": {
+      "n": "Modave",
+      "f": "Modave"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61043",
+    "name": {
+      "n": "Nandrin",
+      "f": "Nandrin"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61048",
+    "name": {
+      "n": "Ouffet",
+      "f": "Ouffet"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61081",
+    "name": {
+      "n": "Tinlot",
+      "f": "Tinlot"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61063",
+    "name": {
+      "n": "Verlaine",
+      "f": "Verlaine"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61068",
+    "name": {
+      "n": "Villers-le-Bouillet",
+      "f": "Villers-le-Bouillet"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "61072",
+    "name": {
+      "n": "Wanze",
+      "f": "Wanze"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62003",
+    "name": {
+      "n": "Ans",
+      "f": "Ans"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62006",
+    "name": {
+      "n": "Awans",
+      "f": "Awans"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62009",
+    "name": {
+      "n": "Aywaille",
+      "f": "Aywaille"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62015",
+    "name": {
+      "n": "Beyne-Heusay",
+      "f": "Beyne-Heusay"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62011",
+    "name": {
+      "n": "Bitsingen",
+      "f": "Bassenge"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62119",
+    "name": {
+      "n": "Blégny",
+      "f": "Blégny"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62022",
+    "name": {
+      "n": "Chaudfontaine",
+      "f": "Chaudfontaine"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62026",
+    "name": {
+      "n": "Comblain-au-Pont",
+      "f": "Comblain-au-Pont"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62027",
+    "name": {
+      "n": "Dalhem",
+      "f": "Dalhem"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62032",
+    "name": {
+      "n": "Esneux",
+      "f": "Esneux"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62120",
+    "name": {
+      "n": "Flémalle",
+      "f": "Flémalle"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62038",
+    "name": {
+      "n": "Fléron",
+      "f": "Fléron"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62118",
+    "name": {
+      "n": "Grâce-Hollogne",
+      "f": "Grâce-Hollogne"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62051",
+    "name": {
+      "n": "Herstal",
+      "f": "Herstal"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62060",
+    "name": {
+      "n": "Juprelle",
+      "f": "Juprelle"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62063",
+    "name": {
+      "n": "Luik",
+      "f": "Liège"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "62121",
+    "name": {
+      "n": "Neupré",
+      "f": "Neupré"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62079",
+    "name": {
+      "n": "Oupeye",
+      "f": "Oupeye"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62093",
+    "name": {
+      "n": "Saint-Nicolas",
+      "f": "Saint-Nicolas"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62096",
+    "name": {
+      "n": "Seraing",
+      "f": "Seraing"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62099",
+    "name": {
+      "n": "Soumagne",
+      "f": "Soumagne"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62100",
+    "name": {
+      "n": "Sprimont",
+      "f": "Sprimont"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62122",
+    "name": {
+      "n": "Trooz",
+      "f": "Trooz"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "62108",
+    "name": {
+      "n": "Wezet",
+      "f": "Visé"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63001",
+    "name": {
+      "n": "Amel",
+      "f": "Amblève"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "63003",
+    "name": {
+      "n": "Aubel",
+      "f": "Aubel"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63004",
+    "name": {
+      "n": "Baelen",
+      "f": "Baelen"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63012",
+    "name": {
+      "n": "Büllingen",
+      "f": "Bullange"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "63013",
+    "name": {
+      "n": "Bütgenbach",
+      "f": "Butgenbach"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "63087",
+    "name": {
+      "n": "Burg-Reuland",
+      "f": "Burg-Reuland"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63020",
+    "name": {
+      "n": "Dison",
+      "f": "Dison"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63023",
+    "name": {
+      "n": "Eupen",
+      "f": "Eupen"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63035",
+    "name": {
+      "n": "Herve",
+      "f": "Herve"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63038",
+    "name": {
+      "n": "Jalhay",
+      "f": "Jalhay"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63040",
+    "name": {
+      "n": "Kelmis",
+      "f": "La Calamine"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "63045",
+    "name": {
+      "n": "Lierneux",
+      "f": "Lierneux"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63046",
+    "name": {
+      "n": "Limburg",
+      "f": "Limbourg"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63048",
+    "name": {
+      "n": "Lontzen",
+      "f": "Lontzen"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63049",
+    "name": {
+      "n": "Malmedy",
+      "f": "Malmedy"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63057",
+    "name": {
+      "n": "Olne",
+      "f": "Olne"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63058",
+    "name": {
+      "n": "Pepinster",
+      "f": "Pepinster"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63088",
+    "name": {
+      "n": "Plombières",
+      "f": "Plombières"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63061",
+    "name": {
+      "n": "Raeren",
+      "f": "Raeren"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63067",
+    "name": {
+      "n": "Sankt Vith",
+      "f": "Saint-Vith"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "63072",
+    "name": {
+      "n": "Spa",
+      "f": "Spa"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63073",
+    "name": {
+      "n": "Stavelot",
+      "f": "Stavelot"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63075",
+    "name": {
+      "n": "Stoumont",
+      "f": "Stoumont"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63076",
+    "name": {
+      "n": "Theux",
+      "f": "Theux"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63089",
+    "name": {
+      "n": "Thimister-Clermont",
+      "f": "Thimister-Clermont"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63086",
+    "name": {
+      "n": "Trois-Ponts",
+      "f": "Trois-Ponts"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63079",
+    "name": {
+      "n": "Verviers",
+      "f": "Verviers"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63080",
+    "name": {
+      "n": "Weismes",
+      "f": "Waimes"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "63084",
+    "name": {
+      "n": "Welkenraedt",
+      "f": "Welkenraedt"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "81001",
+    "name": {
+      "n": "Aarlen",
+      "f": "Arlon"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "81003",
+    "name": {
+      "n": "Attert",
+      "f": "Attert"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "81004",
+    "name": {
+      "n": "Aubange",
+      "f": "Aubange"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "81013",
+    "name": {
+      "n": "Martelange",
+      "f": "Martelange"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "81015",
+    "name": {
+      "n": "Messancy",
+      "f": "Messancy"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "82003",
+    "name": {
+      "n": "Bastenaken",
+      "f": "Bastogne"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "82005",
+    "name": {
+      "n": "Bertogne",
+      "f": "Bertogne"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "82009",
+    "name": {
+      "n": "Fauvillers",
+      "f": "Fauvillers"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "82037",
+    "name": {
+      "n": "Gouvy",
+      "f": "Gouvy"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "82014",
+    "name": {
+      "n": "Houffalize",
+      "f": "Houffalize"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "82038",
+    "name": {
+      "n": "Sainte-Ode",
+      "f": "Sainte-Ode"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "82036",
+    "name": {
+      "n": "Vaux-sur-Sûre",
+      "f": "Vaux-sur-Sûre"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "82032",
+    "name": {
+      "n": "Vielsalm",
+      "f": "Vielsalm"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "83012",
+    "name": {
+      "n": "Durbuy",
+      "f": "Durbuy"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "83013",
+    "name": {
+      "n": "Erezée",
+      "f": "Erezée"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "83028",
+    "name": {
+      "n": "Hotton",
+      "f": "Hotton"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "83031",
+    "name": {
+      "n": "La Roche-en-Ardenne",
+      "f": "La Roche-en-Ardenne"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "83055",
+    "name": {
+      "n": "Manhay",
+      "f": "Manhay"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "83034",
+    "name": {
+      "n": "Marche-en-Famenne",
+      "f": "Marche-en-Famenne"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "83040",
+    "name": {
+      "n": "Nassogne",
+      "f": "Nassogne"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "83044",
+    "name": {
+      "n": "Rendeux",
+      "f": "Rendeux"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "83049",
+    "name": {
+      "n": "Tenneville",
+      "f": "Tenneville"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "84009",
+    "name": {
+      "n": "Bertrix",
+      "f": "Bertrix"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "84010",
+    "name": {
+      "n": "Bouillon",
+      "f": "Bouillon"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "84016",
+    "name": {
+      "n": "Daverdisse",
+      "f": "Daverdisse"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "84029",
+    "name": {
+      "n": "Herbeumont",
+      "f": "Herbeumont"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "84033",
+    "name": {
+      "n": "Léglise",
+      "f": "Léglise"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "84035",
+    "name": {
+      "n": "Libin",
+      "f": "Libin"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "84077",
+    "name": {
+      "n": "Libramont-Chevigny",
+      "f": "Libramont-Chevigny"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "84043",
+    "name": {
+      "n": "Neufchâteau",
+      "f": "Neufchâteau"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "84050",
+    "name": {
+      "n": "Paliseul",
+      "f": "Paliseul"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "84059",
+    "name": {
+      "n": "Saint-Hubert",
+      "f": "Saint-Hubert"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "84068",
+    "name": {
+      "n": "Tellin",
+      "f": "Tellin"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "84075",
+    "name": {
+      "n": "Wellin",
+      "f": "Wellin"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "85007",
+    "name": {
+      "n": "Chiny",
+      "f": "Chiny"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "85009",
+    "name": {
+      "n": "Etalle",
+      "f": "Etalle"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "85011",
+    "name": {
+      "n": "Florenville",
+      "f": "Florenville"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "85046",
+    "name": {
+      "n": "Habay",
+      "f": "Habay"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "85024",
+    "name": {
+      "n": "Meix-devant-Virton",
+      "f": "Meix-devant-Virton"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "85026",
+    "name": {
+      "n": "Musson",
+      "f": "Musson"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "85047",
+    "name": {
+      "n": "Rouvroy",
+      "f": "Rouvroy"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "85034",
+    "name": {
+      "n": "Saint-Léger",
+      "f": "Saint-Léger"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "85039",
+    "name": {
+      "n": "Tintigny",
+      "f": "Tintigny"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "85045",
+    "name": {
+      "n": "Virton",
+      "f": "Virton"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "91005",
+    "name": {
+      "n": "Anhée",
+      "f": "Anhée"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "91013",
+    "name": {
+      "n": "Beauraing",
+      "f": "Beauraing"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "91015",
+    "name": {
+      "n": "Bièvre",
+      "f": "Bièvre"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "91030",
+    "name": {
+      "n": "Ciney",
+      "f": "Ciney"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "91034",
+    "name": {
+      "n": "Dinant",
+      "f": "Dinant"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "91054",
+    "name": {
+      "n": "Gedinne",
+      "f": "Gedinne"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "91059",
+    "name": {
+      "n": "Hamois",
+      "f": "Hamois"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "91142",
+    "name": {
+      "n": "Hastière",
+      "f": "Hastière"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "91064",
+    "name": {
+      "n": "Havelange",
+      "f": "Havelange"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "91072",
+    "name": {
+      "n": "Houyet",
+      "f": "Houyet"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "91103",
+    "name": {
+      "n": "Onhaye",
+      "f": "Onhaye"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "91114",
+    "name": {
+      "n": "Rochefort",
+      "f": "Rochefort"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "91120",
+    "name": {
+      "n": "Somme-Leuze",
+      "f": "Somme-Leuze"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "91143",
+    "name": {
+      "n": "Vresse-sur-Semois",
+      "f": "Vresse-sur-Semois"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "91141",
+    "name": {
+      "n": "Yvoir",
+      "f": "Yvoir"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "92003",
+    "name": {
+      "n": "Andenne",
+      "f": "Andenne"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "92006",
+    "name": {
+      "n": "Assesse",
+      "f": "Assesse"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "92035",
+    "name": {
+      "n": "Eghezée",
+      "f": "Eghezée"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "92138",
+    "name": {
+      "n": "Fernelmont",
+      "f": "Fernelmont"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "92045",
+    "name": {
+      "n": "Floreffe",
+      "f": "Floreffe"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "92048",
+    "name": {
+      "n": "Fosses-la-Ville",
+      "f": "Fosses-la-Ville"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "92142",
+    "name": {
+      "n": "Gembloux",
+      "f": "Gembloux"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "92054",
+    "name": {
+      "n": "Gesves",
+      "f": "Gesves"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "92140",
+    "name": {
+      "n": "Jemeppe-sur-Sambre",
+      "f": "Jemeppe-sur-Sambre"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "92141",
+    "name": {
+      "n": "La Bruyère",
+      "f": "La Bruyère"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "92087",
+    "name": {
+      "n": "Mettet",
+      "f": "Mettet"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "92094",
+    "name": {
+      "n": "Namen",
+      "f": "Namur"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "92097",
+    "name": {
+      "n": "Ohey",
+      "f": "Ohey"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "92101",
+    "name": {
+      "n": "Profondeville",
+      "f": "Profondeville"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "92137",
+    "name": {
+      "n": "Sambreville",
+      "f": "Sambreville"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "92114",
+    "name": {
+      "n": "Sombreffe",
+      "f": "Sombreffe"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "93010",
+    "name": {
+      "n": "Cerfontaine",
+      "f": "Cerfontaine"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "93014",
+    "name": {
+      "n": "Couvin",
+      "f": "Couvin"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "93018",
+    "name": {
+      "n": "Doische",
+      "f": "Doische"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "93022",
+    "name": {
+      "n": "Florennes",
+      "f": "Florennes"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "93056",
+    "name": {
+      "n": "Philippeville",
+      "f": "Philippeville"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "93090",
+    "name": {
+      "n": "Viroinval",
+      "f": "Viroinval"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "93088",
+    "name": {
+      "n": "Walcourt",
+      "f": "Walcourt"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25005",
+    "name": {
+      "n": "Bevekom",
+      "f": "Beauvechain"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25014",
+    "name": {
+      "n": "Eigenbrakel",
+      "f": "Braine-l'Alleud"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25015",
+    "name": {
+      "n": "Kasteelbrakel",
+      "f": "Braine-le-Château"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25018",
+    "name": {
+      "n": "Chaumont-Gistoux",
+      "f": "Chaumont-Gistoux"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25023",
+    "name": {
+      "n": "Court-Saint-Étienne",
+      "f": "Court-Saint-Étienne"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25031",
+    "name": {
+      "n": "Genepien",
+      "f": "Genappe"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25037",
+    "name": {
+      "n": "Graven",
+      "f": "Grez-Doiceau"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25043",
+    "name": {
+      "n": "Incourt",
+      "f": "Incourt"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25044",
+    "name": {
+      "n": "Itter",
+      "f": "Ittre"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25048",
+    "name": {
+      "n": "Geldenaken",
+      "f": "Jodoigne"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25050",
+    "name": {
+      "n": "Terhulpen",
+      "f": "La Hulpe"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25068",
+    "name": {
+      "n": "Mont-Saint-Guibert",
+      "f": "Mont-Saint-Guibert"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25072",
+    "name": {
+      "n": "Nijvel",
+      "f": "Nivelles"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "25084",
+    "name": {
+      "n": "Perwijs",
+      "f": "Perwez"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25091",
+    "name": {
+      "n": "Rixensart",
+      "f": "Rixensart"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25105",
+    "name": {
+      "n": "Tubeke",
+      "f": "Tubize"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25107",
+    "name": {
+      "n": "Villers-la-Ville",
+      "f": "Villers-la-Ville"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25110",
+    "name": {
+      "n": "Waterloo",
+      "f": "Waterloo"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25112",
+    "name": {
+      "n": "Waver",
+      "f": "Wavre"
+    },
+    "use": "n",
+    "twitter": null
+  },
+  {
+    "nis": "25117",
+    "name": {
+      "n": "Chastre",
+      "f": "Chastre"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25118",
+    "name": {
+      "n": "Hélécine",
+      "f": "Hélécine"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25119",
+    "name": {
+      "n": "Lasne",
+      "f": "Lasne"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25120",
+    "name": {
+      "n": "Orp-Jauche",
+      "f": "Orp-Jauche"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25121",
+    "name": {
+      "n": "Ottignies-Louvain-la-Neuve",
+      "f": "Ottignies-Louvain-la-Neuve"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25122",
+    "name": {
+      "n": "Ramillies",
+      "f": "Ramillies"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25123",
+    "name": {
+      "n": "Rebecq",
+      "f": "Rebecq"
+    },
+    "use": "f",
+    "twitter": null
+  },
+  {
+    "nis": "25124",
+    "name": {
+      "n": "Walhain",
+      "f": "Walhain"
+    },
+    "use": "f",
+    "twitter": null
+  }
+]
